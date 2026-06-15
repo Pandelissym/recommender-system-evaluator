@@ -1,0 +1,51 @@
+id,name,neighborhood,category,price_level,popularity_rating,max_capacity,is_outdoor,walking_difficulty,kid_friendly,cat_Religious,cat_Art,cat_Nature,cat_Food,cat_History,neighborhood_economic_weight,lat,lon
+1,Sagrada Familia,Eixample,Religious,3,5,1500,0,0.25,1,1,0,0,0,0,0.20,41.4036,2.1744
+2,Parc Guell,Gracia,Nature,3,5,700,1,0.60,1,0,0,1,0,0,0.45,41.4145,2.1527
+3,La Rambla,Barri Gotic,History,2,5,8000,1,0.15,1,0,0,0,0,1,0.25,41.3797,2.1737
+4,Santa Maria del Mar,El Born,Religious,1,4,800,0,0.25,1,1,0,0,0,0,0.25,41.3840,2.1810
+5,Casa Batllo,Eixample,Art,3,5,400,0,0.20,1,0,1,0,0,0,0.20,41.3916,2.1649
+6,Casa Mila (La Pedrera),Eixample,Art,3,5,500,0,0.20,1,0,1,0,0,0,0.20,41.3954,2.1619
+7,Palau de la Musica Catalana,El Born,Art,3,4,2146,0,0.25,1,0,1,0,0,0,0.25,41.3875,2.1752
+8,Hospital de Sant Pau,Eixample,History,3,4,1500,0,0.20,1,0,0,0,0,1,0.20,41.4116,2.1750
+9,Barcelona Cathedral,Barri Gotic,Religious,2,4,1200,0,0.15,1,1,0,0,0,0,0.25,41.3840,2.1763
+10,Basilica de Santa Maria del Pi,Barri Gotic,Religious,1,3,600,0,0.10,1,1,0,0,0,0,0.25,41.3828,2.1738
+11,Palau Guell,El Raval,Art,2,4,250,0,0.25,1,0,1,0,0,0,0.75,41.3777,2.1742
+12,MACBA Museum,El Raval,Art,3,4,600,0,0.20,1,0,1,0,0,0,0.75,41.3822,2.1668
+13,CCCB Center,El Raval,Art,2,4,500,0,0.20,1,0,1,0,0,0,0.75,41.3823,2.1671
+14,Sant Pau del Camp,El Raval,Religious,1,3,200,0,0.20,1,1,0,0,0,0,0.75,41.3772,2.1677
+15,Church of Sant Josep Oriol,Barri Gotic,Religious,1,3,300,0,0.15,1,1,0,0,0,0,0.25,41.3827,2.1737
+16,Picasso Museum,El Born,Art,2,5,450,0,0.25,1,0,1,0,0,0,0.25,41.3851,2.1807
+17,Fundacio Joan Miro,Montjuic,Art,2,4,400,0,0.45,1,0,1,0,0,0,0.35,41.3683,2.1597
+18,MNAC (Palau Nacional),Montjuic,Art,3,5,2000,0,0.50,1,0,1,0,0,0,0.35,41.3686,2.1536
+19,Barcelona Zoo,Ciutadella,Nature,1,4,2500,1,0.20,1,0,0,1,0,0,0.30,41.3840,2.1857
+20,Parc de la Ciutadella,Ciutadella,Nature,1,5,5000,1,0.15,1,0,0,1,0,0,0.30,41.3882,2.1865
+21,Castell de Montjuic,Montjuic,History,2,4,1500,1,0.55,1,0,0,0,0,1,0.35,41.3643,2.1665
+22,Magic Fountain of Montjuic,Montjuic,History,1,4,8000,1,0.55,1,0,0,0,0,1,0.35,41.3715,2.1522
+23,Poble Espanyol,Montjuic,History,2,4,3500,1,0.45,1,0,0,0,0,1,0.35,41.3693,2.1507
+24,Estadi Olimpic Lluis Companys,Montjuic,History,2,3,55926,1,0.35,1,0,0,0,0,1,0.35,41.3647,2.1567
+25,Montjuic Cable Car (Teleferic),Montjuic,Nature,1,3,350,1,0.40,1,0,0,1,0,0,0.35,41.3673,2.1653
+26,Laberint d'Horta,Horta-Guinardo,Nature,1,3,800,1,0.70,1,0,0,1,0,0,0.60,41.4332,2.1468
+27,Bunkers del Carmel,Horta-Guinardo,Nature,0,3,400,1,0.85,0,0,0,1,0,0,0.60,41.4249,2.1683
+28,CosmoCaixa,Horta-Guinardo,Art,2,3,1200,0,0.40,1,0,1,0,0,0,0.60,41.4072,2.1338
+29,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious,2,4,600,1,0.95,1,1,0,0,0,0,0.60,41.4229,2.1190
+30,Casa Vicens,Gracia,Art,2,3,250,0,0.30,1,0,1,0,0,0,0.45,41.4038,2.1558
+31,Camp Nou Stadium,Les Corts,History,2,5,99354,1,0.30,1,0,0,0,0,1,0.30,41.3809,2.1228
+32,FC Barcelona Museum,Les Corts,History,2,4,800,0,0.30,1,0,0,0,0,1,0.30,41.3806,2.1230
+33,Mercat de la Boqueria,El Raval,Food,2,5,2500,1,0.15,1,0,0,0,1,0,0.75,41.3816,2.1720
+34,Mercat de Sant Antoni,Sant Antoni,Food,1,4,1200,1,0.20,1,0,0,0,1,0,0.50,41.3779,2.1638
+35,Mercat de Santa Caterina,El Born,Food,1,4,900,1,0.25,1,0,0,0,1,0,0.25,41.3861,2.1773
+36,Mercat de la Concepcio,Sant Antoni,Food,1,3,800,1,0.25,1,0,0,0,1,0,0.50,41.3918,2.1640
+37,Mercat dels Encants,Poblenou,History,1,4,2000,1,0.25,1,0,0,0,0,1,0.55,41.4028,2.1891
+38,Barceloneta Beach,La Barceloneta,Nature,0,5,8000,1,0.10,1,0,0,1,0,0,0.25,41.3769,2.1898
+39,Port Vell (Promenade),Barri Gotic,History,2,4,5000,1,0.15,1,0,0,0,0,1,0.25,41.3762,2.1791
+40,Aquarium Barcelona,Barri Gotic,Nature,3,4,1200,0,0.10,1,0,0,1,0,0,0.25,41.3749,2.1793
+41,Maritime Museum,Barri Gotic,History,2,3,600,0,0.15,1,0,0,0,0,1,0.25,41.3772,2.1762
+42,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious,1,3,1000,0,0.15,1,1,0,0,0,0,0.25,41.3828,2.1785
+43,El Born Cultural Center,El Born,History,1,4,500,0,0.25,1,0,0,0,0,1,0.25,41.3850,2.1819
+44,Parc de la Creueta del Coll,Horta-Guinardo,Nature,0,3,600,1,0.65,1,0,0,1,0,0,0.60,41.4128,2.1480
+45,Parc de l'Espanya Industrial,Sants,Nature,0,3,800,1,0.35,1,0,0,1,0,0,0.40,41.3748,2.1407
+46,Parc Central de Nou Barris,Nou Barris,Nature,0,2,1200,1,0.55,1,0,0,1,0,0,0.80,41.4419,2.1811
+47,Parc del Turo de la Peira,Nou Barris,Nature,0,2,800,1,0.60,0,0,0,1,0,0,0.80,41.4388,2.1758
+48,Torre Glories Viewpoint,Poblenou,Art,3,4,400,0,0.25,1,0,1,0,0,0,0.55,41.4032,2.1897
+49,Parc Diagonal Mar,Poblenou,Nature,1,4,3000,1,0.25,1,0,0,1,0,0,0.55,41.4056,2.2074
+50,Forum Building / Forum Park,Poblenou,History,1,3,4000,1,0.25,1,0,0,0,0,1,0.55,41.4078,2.2157
