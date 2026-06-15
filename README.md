@@ -2,6 +2,10 @@
 
 Agent-based simulation that compares three POI recommendation strategies: popularity, interests, and sustainability using tourist agents moving through Barcelona points of interest.
 
+## Demo of the system
+
+A demo of the system can be found in [demo.mp4](demo.mp4)
+
 ## Setup
 
 ```bash
