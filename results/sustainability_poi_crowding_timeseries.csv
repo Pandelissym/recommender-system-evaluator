@@ -1,0 +1,1801 @@
+tick,poi_id,visitors,crowd_ratio,name,neighborhood,category
+0,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+0,2,28,0.2,Parc Guell,Gracia,Nature
+0,3,27,0.016875,La Rambla,Barri Gotic,History
+0,4,21,0.13125,Santa Maria del Mar,El Born,Religious
+0,5,1,0.0125,Casa Batllo,Eixample,Art
+0,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+0,7,6,0.013979496738117428,Palau de la Musica Catalana,El Born,Art
+0,8,0,0.0,Hospital de Sant Pau,Eixample,History
+0,9,30,0.125,Barcelona Cathedral,Barri Gotic,Religious
+0,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+0,11,36,0.72,Palau Guell,El Raval,Art
+0,12,84,0.7,MACBA Museum,El Raval,Art
+0,13,73,0.73,CCCB Center,El Raval,Art
+0,14,37,0.925,Sant Pau del Camp,El Raval,Religious
+0,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+0,16,12,0.13333333333333333,Picasso Museum,El Born,Art
+0,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+0,18,34,0.085,MNAC (Palau Nacional),Montjuic,Art
+0,19,44,0.088,Barcelona Zoo,Ciutadella,Nature
+0,20,104,0.104,Parc de la Ciutadella,Ciutadella,Nature
+0,21,14,0.04666666666666667,Castell de Montjuic,Montjuic,History
+0,22,121,0.075625,Magic Fountain of Montjuic,Montjuic,History
+0,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+0,24,80,0.007152308407538533,Estadi Olimpic Lluis Companys,Montjuic,History
+0,25,11,0.15714285714285714,Montjuic Cable Car (Teleferic),Montjuic,Nature
+0,26,65,0.40625,Laberint d'Horta,Horta-Guinardo,Nature
+0,27,31,0.3875,Bunkers del Carmel,Horta-Guinardo,Nature
+0,28,101,0.42083333333333334,CosmoCaixa,Horta-Guinardo,Art
+0,29,36,0.3,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+0,30,14,0.28,Casa Vicens,Gracia,Art
+0,31,182,0.009159168226744771,Camp Nou Stadium,Les Corts,History
+0,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+0,33,325,0.65,Mercat de la Boqueria,El Raval,Food
+0,34,81,0.3375,Mercat de Sant Antoni,Sant Antoni,Food
+0,35,21,0.11666666666666667,Mercat de Santa Caterina,El Born,Food
+0,36,54,0.3375,Mercat de la Concepcio,Sant Antoni,Food
+0,37,152,0.38,Mercat dels Encants,Poblenou,History
+0,38,102,0.06375,Barceloneta Beach,La Barceloneta,Nature
+0,39,7,0.007,Port Vell (Promenade),Barri Gotic,History
+0,40,6,0.025,Aquarium Barcelona,Barri Gotic,Nature
+0,41,3,0.025,Maritime Museum,Barri Gotic,History
+0,42,28,0.14,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+0,43,8,0.08,El Born Cultural Center,El Born,History
+0,44,50,0.4166666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+0,45,31,0.19375,Parc de l'Espanya Industrial,Sants,Nature
+0,46,169,0.7041666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+0,47,113,0.70625,Parc del Turo de la Peira,Nou Barris,Nature
+0,48,28,0.35,Torre Glories Viewpoint,Poblenou,Art
+0,49,227,0.37833333333333335,Parc Diagonal Mar,Poblenou,Nature
+0,50,276,0.345,Forum Building / Forum Park,Poblenou,History
+1,1,7,0.023333333333333334,Sagrada Familia,Eixample,Religious
+1,2,25,0.17857142857142858,Parc Guell,Gracia,Nature
+1,3,22,0.01375,La Rambla,Barri Gotic,History
+1,4,17,0.10625,Santa Maria del Mar,El Born,Religious
+1,5,1,0.0125,Casa Batllo,Eixample,Art
+1,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+1,7,2,0.004659832246039143,Palau de la Musica Catalana,El Born,Art
+1,8,0,0.0,Hospital de Sant Pau,Eixample,History
+1,9,24,0.1,Barcelona Cathedral,Barri Gotic,Religious
+1,10,12,0.1,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+1,11,33,0.66,Palau Guell,El Raval,Art
+1,12,77,0.6416666666666667,MACBA Museum,El Raval,Art
+1,13,71,0.71,CCCB Center,El Raval,Art
+1,14,33,0.825,Sant Pau del Camp,El Raval,Religious
+1,15,8,0.13333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+1,16,9,0.1,Picasso Museum,El Born,Art
+1,17,13,0.1625,Fundacio Joan Miro,Montjuic,Art
+1,18,24,0.06,MNAC (Palau Nacional),Montjuic,Art
+1,19,37,0.074,Barcelona Zoo,Ciutadella,Nature
+1,20,90,0.09,Parc de la Ciutadella,Ciutadella,Nature
+1,21,10,0.03333333333333333,Castell de Montjuic,Montjuic,History
+1,22,99,0.061875,Magic Fountain of Montjuic,Montjuic,History
+1,23,27,0.03857142857142857,Poble Espanyol,Montjuic,History
+1,24,62,0.005543039015842363,Estadi Olimpic Lluis Companys,Montjuic,History
+1,25,8,0.11428571428571428,Montjuic Cable Car (Teleferic),Montjuic,Nature
+1,26,55,0.34375,Laberint d'Horta,Horta-Guinardo,Nature
+1,27,26,0.325,Bunkers del Carmel,Horta-Guinardo,Nature
+1,28,71,0.29583333333333334,CosmoCaixa,Horta-Guinardo,Art
+1,29,29,0.24166666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+1,30,8,0.16,Casa Vicens,Gracia,Art
+1,31,158,0.007951365823217989,Camp Nou Stadium,Les Corts,History
+1,32,0,0.0,FC Barcelona Museum,Les Corts,History
+1,33,302,0.604,Mercat de la Boqueria,El Raval,Food
+1,34,73,0.30416666666666664,Mercat de Sant Antoni,Sant Antoni,Food
+1,35,20,0.1111111111111111,Mercat de Santa Caterina,El Born,Food
+1,36,46,0.2875,Mercat de la Concepcio,Sant Antoni,Food
+1,37,150,0.375,Mercat dels Encants,Poblenou,History
+1,38,85,0.053125,Barceloneta Beach,La Barceloneta,Nature
+1,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+1,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+1,41,1,0.008333333333333333,Maritime Museum,Barri Gotic,History
+1,42,22,0.11,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+1,43,5,0.05,El Born Cultural Center,El Born,History
+1,44,40,0.3333333333333333,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+1,45,27,0.16875,Parc de l'Espanya Industrial,Sants,Nature
+1,46,154,0.6416666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+1,47,101,0.63125,Parc del Turo de la Peira,Nou Barris,Nature
+1,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+1,49,212,0.35333333333333333,Parc Diagonal Mar,Poblenou,Nature
+1,50,240,0.3,Forum Building / Forum Park,Poblenou,History
+2,1,2,0.006666666666666667,Sagrada Familia,Eixample,Religious
+2,2,19,0.1357142857142857,Parc Guell,Gracia,Nature
+2,3,16,0.01,La Rambla,Barri Gotic,History
+2,4,11,0.06875,Santa Maria del Mar,El Born,Religious
+2,5,0,0.0,Casa Batllo,Eixample,Art
+2,6,1,0.01,Casa Mila (La Pedrera),Eixample,Art
+2,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+2,8,0,0.0,Hospital de Sant Pau,Eixample,History
+2,9,11,0.04583333333333333,Barcelona Cathedral,Barri Gotic,Religious
+2,10,7,0.058333333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+2,11,20,0.4,Palau Guell,El Raval,Art
+2,12,45,0.375,MACBA Museum,El Raval,Art
+2,13,39,0.39,CCCB Center,El Raval,Art
+2,14,22,0.55,Sant Pau del Camp,El Raval,Religious
+2,15,3,0.05,Church of Sant Josep Oriol,Barri Gotic,Religious
+2,16,4,0.044444444444444446,Picasso Museum,El Born,Art
+2,17,6,0.075,Fundacio Joan Miro,Montjuic,Art
+2,18,9,0.0225,MNAC (Palau Nacional),Montjuic,Art
+2,19,27,0.054,Barcelona Zoo,Ciutadella,Nature
+2,20,72,0.072,Parc de la Ciutadella,Ciutadella,Nature
+2,21,8,0.02666666666666667,Castell de Montjuic,Montjuic,History
+2,22,81,0.050625,Magic Fountain of Montjuic,Montjuic,History
+2,23,17,0.024285714285714285,Poble Espanyol,Montjuic,History
+2,24,56,0.005006615885276973,Estadi Olimpic Lluis Companys,Montjuic,History
+2,25,7,0.1,Montjuic Cable Car (Teleferic),Montjuic,Nature
+2,26,40,0.25,Laberint d'Horta,Horta-Guinardo,Nature
+2,27,18,0.225,Bunkers del Carmel,Horta-Guinardo,Nature
+2,28,43,0.17916666666666667,CosmoCaixa,Horta-Guinardo,Art
+2,29,24,0.2,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+2,30,6,0.12,Casa Vicens,Gracia,Art
+2,31,129,0.006491937918956459,Camp Nou Stadium,Les Corts,History
+2,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+2,33,192,0.384,Mercat de la Boqueria,El Raval,Food
+2,34,53,0.22083333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+2,35,12,0.06666666666666667,Mercat de Santa Caterina,El Born,Food
+2,36,39,0.24375,Mercat de la Concepcio,Sant Antoni,Food
+2,37,93,0.2325,Mercat dels Encants,Poblenou,History
+2,38,68,0.0425,Barceloneta Beach,La Barceloneta,Nature
+2,39,4,0.004,Port Vell (Promenade),Barri Gotic,History
+2,40,6,0.025,Aquarium Barcelona,Barri Gotic,Nature
+2,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+2,42,10,0.05,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+2,43,4,0.04,El Born Cultural Center,El Born,History
+2,44,30,0.25,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+2,45,17,0.10625,Parc de l'Espanya Industrial,Sants,Nature
+2,46,107,0.44583333333333336,Parc Central de Nou Barris,Nou Barris,Nature
+2,47,71,0.44375,Parc del Turo de la Peira,Nou Barris,Nature
+2,48,13,0.1625,Torre Glories Viewpoint,Poblenou,Art
+2,49,136,0.22666666666666666,Parc Diagonal Mar,Poblenou,Nature
+2,50,165,0.20625,Forum Building / Forum Park,Poblenou,History
+3,1,5,0.016666666666666666,Sagrada Familia,Eixample,Religious
+3,2,13,0.09285714285714286,Parc Guell,Gracia,Nature
+3,3,15,0.009375,La Rambla,Barri Gotic,History
+3,4,13,0.08125,Santa Maria del Mar,El Born,Religious
+3,5,0,0.0,Casa Batllo,Eixample,Art
+3,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+3,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+3,8,0,0.0,Hospital de Sant Pau,Eixample,History
+3,9,15,0.0625,Barcelona Cathedral,Barri Gotic,Religious
+3,10,11,0.09166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+3,11,28,0.56,Palau Guell,El Raval,Art
+3,12,55,0.4583333333333333,MACBA Museum,El Raval,Art
+3,13,53,0.53,CCCB Center,El Raval,Art
+3,14,31,0.775,Sant Pau del Camp,El Raval,Religious
+3,15,6,0.1,Church of Sant Josep Oriol,Barri Gotic,Religious
+3,16,8,0.08888888888888889,Picasso Museum,El Born,Art
+3,17,8,0.1,Fundacio Joan Miro,Montjuic,Art
+3,18,20,0.05,MNAC (Palau Nacional),Montjuic,Art
+3,19,25,0.05,Barcelona Zoo,Ciutadella,Nature
+3,20,70,0.07,Parc de la Ciutadella,Ciutadella,Nature
+3,21,9,0.03,Castell de Montjuic,Montjuic,History
+3,22,65,0.040625,Magic Fountain of Montjuic,Montjuic,History
+3,23,19,0.027142857142857142,Poble Espanyol,Montjuic,History
+3,24,44,0.003933769624146193,Estadi Olimpic Lluis Companys,Montjuic,History
+3,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+3,26,41,0.25625,Laberint d'Horta,Horta-Guinardo,Nature
+3,27,21,0.2625,Bunkers del Carmel,Horta-Guinardo,Nature
+3,28,67,0.2791666666666667,CosmoCaixa,Horta-Guinardo,Art
+3,29,18,0.15,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+3,30,9,0.18,Casa Vicens,Gracia,Art
+3,31,141,0.00709583912071985,Camp Nou Stadium,Les Corts,History
+3,32,0,0.0,FC Barcelona Museum,Les Corts,History
+3,33,237,0.474,Mercat de la Boqueria,El Raval,Food
+3,34,54,0.225,Mercat de Sant Antoni,Sant Antoni,Food
+3,35,8,0.044444444444444446,Mercat de Santa Caterina,El Born,Food
+3,36,39,0.24375,Mercat de la Concepcio,Sant Antoni,Food
+3,37,113,0.2825,Mercat dels Encants,Poblenou,History
+3,38,59,0.036875,Barceloneta Beach,La Barceloneta,Nature
+3,39,7,0.007,Port Vell (Promenade),Barri Gotic,History
+3,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+3,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+3,42,19,0.095,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+3,43,4,0.04,El Born Cultural Center,El Born,History
+3,44,32,0.26666666666666666,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+3,45,19,0.11875,Parc de l'Espanya Industrial,Sants,Nature
+3,46,124,0.5166666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+3,47,81,0.50625,Parc del Turo de la Peira,Nou Barris,Nature
+3,48,16,0.2,Torre Glories Viewpoint,Poblenou,Art
+3,49,161,0.2683333333333333,Parc Diagonal Mar,Poblenou,Nature
+3,50,189,0.23625,Forum Building / Forum Park,Poblenou,History
+4,1,9,0.03,Sagrada Familia,Eixample,Religious
+4,2,21,0.15,Parc Guell,Gracia,Nature
+4,3,25,0.015625,La Rambla,Barri Gotic,History
+4,4,23,0.14375,Santa Maria del Mar,El Born,Religious
+4,5,1,0.0125,Casa Batllo,Eixample,Art
+4,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+4,7,4,0.009319664492078286,Palau de la Musica Catalana,El Born,Art
+4,8,0,0.0,Hospital de Sant Pau,Eixample,History
+4,9,32,0.13333333333333333,Barcelona Cathedral,Barri Gotic,Religious
+4,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+4,11,33,0.66,Palau Guell,El Raval,Art
+4,12,73,0.6083333333333333,MACBA Museum,El Raval,Art
+4,13,66,0.66,CCCB Center,El Raval,Art
+4,14,35,0.875,Sant Pau del Camp,El Raval,Religious
+4,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+4,16,12,0.13333333333333333,Picasso Museum,El Born,Art
+4,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+4,18,35,0.0875,MNAC (Palau Nacional),Montjuic,Art
+4,19,32,0.064,Barcelona Zoo,Ciutadella,Nature
+4,20,84,0.084,Parc de la Ciutadella,Ciutadella,Nature
+4,21,9,0.03,Castell de Montjuic,Montjuic,History
+4,22,83,0.051875,Magic Fountain of Montjuic,Montjuic,History
+4,23,23,0.032857142857142856,Poble Espanyol,Montjuic,History
+4,24,71,0.006347673711690448,Estadi Olimpic Lluis Companys,Montjuic,History
+4,25,5,0.07142857142857142,Montjuic Cable Car (Teleferic),Montjuic,Nature
+4,26,47,0.29375,Laberint d'Horta,Horta-Guinardo,Nature
+4,27,22,0.275,Bunkers del Carmel,Horta-Guinardo,Nature
+4,28,92,0.38333333333333336,CosmoCaixa,Horta-Guinardo,Art
+4,29,29,0.24166666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+4,30,14,0.28,Casa Vicens,Gracia,Art
+4,31,181,0.009108843126597823,Camp Nou Stadium,Les Corts,History
+4,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+4,33,252,0.504,Mercat de la Boqueria,El Raval,Food
+4,34,55,0.22916666666666666,Mercat de Sant Antoni,Sant Antoni,Food
+4,35,9,0.05,Mercat de Santa Caterina,El Born,Food
+4,36,39,0.24375,Mercat de la Concepcio,Sant Antoni,Food
+4,37,111,0.2775,Mercat dels Encants,Poblenou,History
+4,38,75,0.046875,Barceloneta Beach,La Barceloneta,Nature
+4,39,7,0.007,Port Vell (Promenade),Barri Gotic,History
+4,40,8,0.03333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+4,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+4,42,28,0.14,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+4,43,8,0.08,El Born Cultural Center,El Born,History
+4,44,35,0.2916666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+4,45,19,0.11875,Parc de l'Espanya Industrial,Sants,Nature
+4,46,127,0.5291666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+4,47,85,0.53125,Parc del Turo de la Peira,Nou Barris,Nature
+4,48,25,0.3125,Torre Glories Viewpoint,Poblenou,Art
+4,49,169,0.2816666666666667,Parc Diagonal Mar,Poblenou,Nature
+4,50,194,0.2425,Forum Building / Forum Park,Poblenou,History
+5,1,2,0.006666666666666667,Sagrada Familia,Eixample,Religious
+5,2,16,0.11428571428571428,Parc Guell,Gracia,Nature
+5,3,11,0.006875,La Rambla,Barri Gotic,History
+5,4,6,0.0375,Santa Maria del Mar,El Born,Religious
+5,5,0,0.0,Casa Batllo,Eixample,Art
+5,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+5,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+5,8,0,0.0,Hospital de Sant Pau,Eixample,History
+5,9,10,0.041666666666666664,Barcelona Cathedral,Barri Gotic,Religious
+5,10,6,0.05,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+5,11,18,0.36,Palau Guell,El Raval,Art
+5,12,28,0.23333333333333334,MACBA Museum,El Raval,Art
+5,13,36,0.36,CCCB Center,El Raval,Art
+5,14,22,0.55,Sant Pau del Camp,El Raval,Religious
+5,15,2,0.03333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+5,16,2,0.022222222222222223,Picasso Museum,El Born,Art
+5,17,1,0.0125,Fundacio Joan Miro,Montjuic,Art
+5,18,5,0.0125,MNAC (Palau Nacional),Montjuic,Art
+5,19,16,0.032,Barcelona Zoo,Ciutadella,Nature
+5,20,46,0.046,Parc de la Ciutadella,Ciutadella,Nature
+5,21,4,0.013333333333333334,Castell de Montjuic,Montjuic,History
+5,22,37,0.023125,Magic Fountain of Montjuic,Montjuic,History
+5,23,7,0.01,Poble Espanyol,Montjuic,History
+5,24,35,0.003129134928298108,Estadi Olimpic Lluis Companys,Montjuic,History
+5,25,2,0.02857142857142857,Montjuic Cable Car (Teleferic),Montjuic,Nature
+5,26,24,0.15,Laberint d'Horta,Horta-Guinardo,Nature
+5,27,9,0.1125,Bunkers del Carmel,Horta-Guinardo,Nature
+5,28,25,0.10416666666666667,CosmoCaixa,Horta-Guinardo,Art
+5,29,11,0.09166666666666666,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+5,30,2,0.04,Casa Vicens,Gracia,Art
+5,31,80,0.004026008011755944,Camp Nou Stadium,Les Corts,History
+5,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+5,33,144,0.288,Mercat de la Boqueria,El Raval,Food
+5,34,41,0.17083333333333334,Mercat de Sant Antoni,Sant Antoni,Food
+5,35,4,0.022222222222222223,Mercat de Santa Caterina,El Born,Food
+5,36,23,0.14375,Mercat de la Concepcio,Sant Antoni,Food
+5,37,76,0.19,Mercat dels Encants,Poblenou,History
+5,38,39,0.024375,Barceloneta Beach,La Barceloneta,Nature
+5,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+5,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+5,41,0,0.0,Maritime Museum,Barri Gotic,History
+5,42,5,0.025,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+5,43,1,0.01,El Born Cultural Center,El Born,History
+5,44,21,0.175,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+5,45,6,0.0375,Parc de l'Espanya Industrial,Sants,Nature
+5,46,94,0.39166666666666666,Parc Central de Nou Barris,Nou Barris,Nature
+5,47,61,0.38125,Parc del Turo de la Peira,Nou Barris,Nature
+5,48,6,0.075,Torre Glories Viewpoint,Poblenou,Art
+5,49,102,0.17,Parc Diagonal Mar,Poblenou,Nature
+5,50,112,0.14,Forum Building / Forum Park,Poblenou,History
+6,1,10,0.03333333333333333,Sagrada Familia,Eixample,Religious
+6,2,23,0.16428571428571428,Parc Guell,Gracia,Nature
+6,3,31,0.019375,La Rambla,Barri Gotic,History
+6,4,23,0.14375,Santa Maria del Mar,El Born,Religious
+6,5,1,0.0125,Casa Batllo,Eixample,Art
+6,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+6,7,8,0.018639328984156572,Palau de la Musica Catalana,El Born,Art
+6,8,0,0.0,Hospital de Sant Pau,Eixample,History
+6,9,33,0.1375,Barcelona Cathedral,Barri Gotic,Religious
+6,10,20,0.16666666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+6,11,36,0.72,Palau Guell,El Raval,Art
+6,12,83,0.6916666666666667,MACBA Museum,El Raval,Art
+6,13,71,0.71,CCCB Center,El Raval,Art
+6,14,38,0.95,Sant Pau del Camp,El Raval,Religious
+6,15,10,0.16666666666666666,Church of Sant Josep Oriol,Barri Gotic,Religious
+6,16,13,0.14444444444444443,Picasso Museum,El Born,Art
+6,17,17,0.2125,Fundacio Joan Miro,Montjuic,Art
+6,18,39,0.0975,MNAC (Palau Nacional),Montjuic,Art
+6,19,44,0.088,Barcelona Zoo,Ciutadella,Nature
+6,20,106,0.106,Parc de la Ciutadella,Ciutadella,Nature
+6,21,14,0.04666666666666667,Castell de Montjuic,Montjuic,History
+6,22,118,0.07375,Magic Fountain of Montjuic,Montjuic,History
+6,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+6,24,95,0.008493366233952008,Estadi Olimpic Lluis Companys,Montjuic,History
+6,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+6,26,59,0.36875,Laberint d'Horta,Horta-Guinardo,Nature
+6,27,30,0.375,Bunkers del Carmel,Horta-Guinardo,Nature
+6,28,103,0.42916666666666664,CosmoCaixa,Horta-Guinardo,Art
+6,29,33,0.275,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+6,30,15,0.3,Casa Vicens,Gracia,Art
+6,31,229,0.011524447933651389,Camp Nou Stadium,Les Corts,History
+6,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+6,33,312,0.624,Mercat de la Boqueria,El Raval,Food
+6,34,75,0.3125,Mercat de Sant Antoni,Sant Antoni,Food
+6,35,17,0.09444444444444444,Mercat de Santa Caterina,El Born,Food
+6,36,51,0.31875,Mercat de la Concepcio,Sant Antoni,Food
+6,37,146,0.365,Mercat dels Encants,Poblenou,History
+6,38,104,0.065,Barceloneta Beach,La Barceloneta,Nature
+6,39,9,0.009,Port Vell (Promenade),Barri Gotic,History
+6,40,8,0.03333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+6,41,3,0.025,Maritime Museum,Barri Gotic,History
+6,42,32,0.16,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+6,43,11,0.11,El Born Cultural Center,El Born,History
+6,44,45,0.375,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+6,45,28,0.175,Parc de l'Espanya Industrial,Sants,Nature
+6,46,158,0.6583333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+6,47,106,0.6625,Parc del Turo de la Peira,Nou Barris,Nature
+6,48,29,0.3625,Torre Glories Viewpoint,Poblenou,Art
+6,49,214,0.3566666666666667,Parc Diagonal Mar,Poblenou,Nature
+6,50,261,0.32625,Forum Building / Forum Park,Poblenou,History
+7,1,6,0.02,Sagrada Familia,Eixample,Religious
+7,2,12,0.08571428571428572,Parc Guell,Gracia,Nature
+7,3,18,0.01125,La Rambla,Barri Gotic,History
+7,4,13,0.08125,Santa Maria del Mar,El Born,Religious
+7,5,1,0.0125,Casa Batllo,Eixample,Art
+7,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+7,7,4,0.009319664492078286,Palau de la Musica Catalana,El Born,Art
+7,8,0,0.0,Hospital de Sant Pau,Eixample,History
+7,9,17,0.07083333333333333,Barcelona Cathedral,Barri Gotic,Religious
+7,10,11,0.09166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+7,11,17,0.34,Palau Guell,El Raval,Art
+7,12,48,0.4,MACBA Museum,El Raval,Art
+7,13,34,0.34,CCCB Center,El Raval,Art
+7,14,16,0.4,Sant Pau del Camp,El Raval,Religious
+7,15,5,0.08333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+7,16,8,0.08888888888888889,Picasso Museum,El Born,Art
+7,17,10,0.125,Fundacio Joan Miro,Montjuic,Art
+7,18,21,0.0525,MNAC (Palau Nacional),Montjuic,Art
+7,19,30,0.06,Barcelona Zoo,Ciutadella,Nature
+7,20,68,0.068,Parc de la Ciutadella,Ciutadella,Nature
+7,21,9,0.03,Castell de Montjuic,Montjuic,History
+7,22,71,0.044375,Magic Fountain of Montjuic,Montjuic,History
+7,23,20,0.02857142857142857,Poble Espanyol,Montjuic,History
+7,24,52,0.004649000464900046,Estadi Olimpic Lluis Companys,Montjuic,History
+7,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+7,26,36,0.225,Laberint d'Horta,Horta-Guinardo,Nature
+7,27,20,0.25,Bunkers del Carmel,Horta-Guinardo,Nature
+7,28,56,0.23333333333333334,CosmoCaixa,Horta-Guinardo,Art
+7,29,17,0.14166666666666666,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+7,30,6,0.12,Casa Vicens,Gracia,Art
+7,31,144,0.007246814421160698,Camp Nou Stadium,Les Corts,History
+7,32,0,0.0,FC Barcelona Museum,Les Corts,History
+7,33,229,0.458,Mercat de la Boqueria,El Raval,Food
+7,34,49,0.20416666666666666,Mercat de Sant Antoni,Sant Antoni,Food
+7,35,11,0.06111111111111111,Mercat de Santa Caterina,El Born,Food
+7,36,35,0.21875,Mercat de la Concepcio,Sant Antoni,Food
+7,37,114,0.285,Mercat dels Encants,Poblenou,History
+7,38,60,0.0375,Barceloneta Beach,La Barceloneta,Nature
+7,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+7,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+7,41,1,0.008333333333333333,Maritime Museum,Barri Gotic,History
+7,42,19,0.095,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+7,43,6,0.06,El Born Cultural Center,El Born,History
+7,44,26,0.21666666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+7,45,20,0.125,Parc de l'Espanya Industrial,Sants,Nature
+7,46,110,0.4583333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+7,47,68,0.425,Parc del Turo de la Peira,Nou Barris,Nature
+7,48,17,0.2125,Torre Glories Viewpoint,Poblenou,Art
+7,49,155,0.25833333333333336,Parc Diagonal Mar,Poblenou,Nature
+7,50,181,0.22625,Forum Building / Forum Park,Poblenou,History
+8,1,3,0.01,Sagrada Familia,Eixample,Religious
+8,2,19,0.1357142857142857,Parc Guell,Gracia,Nature
+8,3,16,0.01,La Rambla,Barri Gotic,History
+8,4,10,0.0625,Santa Maria del Mar,El Born,Religious
+8,5,0,0.0,Casa Batllo,Eixample,Art
+8,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+8,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+8,8,0,0.0,Hospital de Sant Pau,Eixample,History
+8,9,14,0.058333333333333334,Barcelona Cathedral,Barri Gotic,Religious
+8,10,7,0.058333333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+8,11,26,0.52,Palau Guell,El Raval,Art
+8,12,56,0.4666666666666667,MACBA Museum,El Raval,Art
+8,13,52,0.52,CCCB Center,El Raval,Art
+8,14,29,0.725,Sant Pau del Camp,El Raval,Religious
+8,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+8,16,7,0.07777777777777778,Picasso Museum,El Born,Art
+8,17,6,0.075,Fundacio Joan Miro,Montjuic,Art
+8,18,10,0.025,MNAC (Palau Nacional),Montjuic,Art
+8,19,21,0.042,Barcelona Zoo,Ciutadella,Nature
+8,20,64,0.064,Parc de la Ciutadella,Ciutadella,Nature
+8,21,7,0.023333333333333334,Castell de Montjuic,Montjuic,History
+8,22,63,0.039375,Magic Fountain of Montjuic,Montjuic,History
+8,23,17,0.024285714285714285,Poble Espanyol,Montjuic,History
+8,24,48,0.0042913850445231196,Estadi Olimpic Lluis Companys,Montjuic,History
+8,25,5,0.07142857142857142,Montjuic Cable Car (Teleferic),Montjuic,Nature
+8,26,39,0.24375,Laberint d'Horta,Horta-Guinardo,Nature
+8,27,18,0.225,Bunkers del Carmel,Horta-Guinardo,Nature
+8,28,62,0.25833333333333336,CosmoCaixa,Horta-Guinardo,Art
+8,29,24,0.2,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+8,30,7,0.14,Casa Vicens,Gracia,Art
+8,31,120,0.006039012017633915,Camp Nou Stadium,Les Corts,History
+8,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+8,33,217,0.434,Mercat de la Boqueria,El Raval,Food
+8,34,50,0.20833333333333334,Mercat de Sant Antoni,Sant Antoni,Food
+8,35,6,0.03333333333333333,Mercat de Santa Caterina,El Born,Food
+8,36,35,0.21875,Mercat de la Concepcio,Sant Antoni,Food
+8,37,95,0.2375,Mercat dels Encants,Poblenou,History
+8,38,53,0.033125,Barceloneta Beach,La Barceloneta,Nature
+8,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+8,40,4,0.016666666666666666,Aquarium Barcelona,Barri Gotic,Nature
+8,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+8,42,13,0.065,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+8,43,4,0.04,El Born Cultural Center,El Born,History
+8,44,30,0.25,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+8,45,15,0.09375,Parc de l'Espanya Industrial,Sants,Nature
+8,46,118,0.49166666666666664,Parc Central de Nou Barris,Nou Barris,Nature
+8,47,78,0.4875,Parc del Turo de la Peira,Nou Barris,Nature
+8,48,19,0.2375,Torre Glories Viewpoint,Poblenou,Art
+8,49,142,0.23666666666666666,Parc Diagonal Mar,Poblenou,Nature
+8,50,162,0.2025,Forum Building / Forum Park,Poblenou,History
+9,1,7,0.023333333333333334,Sagrada Familia,Eixample,Religious
+9,2,15,0.10714285714285714,Parc Guell,Gracia,Nature
+9,3,19,0.011875,La Rambla,Barri Gotic,History
+9,4,19,0.11875,Santa Maria del Mar,El Born,Religious
+9,5,1,0.0125,Casa Batllo,Eixample,Art
+9,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+9,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+9,8,0,0.0,Hospital de Sant Pau,Eixample,History
+9,9,21,0.0875,Barcelona Cathedral,Barri Gotic,Religious
+9,10,15,0.125,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+9,11,32,0.64,Palau Guell,El Raval,Art
+9,12,67,0.5583333333333333,MACBA Museum,El Raval,Art
+9,13,63,0.63,CCCB Center,El Raval,Art
+9,14,36,0.9,Sant Pau del Camp,El Raval,Religious
+9,15,7,0.11666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+9,16,9,0.1,Picasso Museum,El Born,Art
+9,17,11,0.1375,Fundacio Joan Miro,Montjuic,Art
+9,18,26,0.065,MNAC (Palau Nacional),Montjuic,Art
+9,19,24,0.048,Barcelona Zoo,Ciutadella,Nature
+9,20,73,0.073,Parc de la Ciutadella,Ciutadella,Nature
+9,21,9,0.03,Castell de Montjuic,Montjuic,History
+9,22,64,0.04,Magic Fountain of Montjuic,Montjuic,History
+9,23,20,0.02857142857142857,Poble Espanyol,Montjuic,History
+9,24,44,0.003933769624146193,Estadi Olimpic Lluis Companys,Montjuic,History
+9,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+9,26,39,0.24375,Laberint d'Horta,Horta-Guinardo,Nature
+9,27,20,0.25,Bunkers del Carmel,Horta-Guinardo,Nature
+9,28,74,0.30833333333333335,CosmoCaixa,Horta-Guinardo,Art
+9,29,24,0.2,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+9,30,11,0.22,Casa Vicens,Gracia,Art
+9,31,142,0.0071461642208668,Camp Nou Stadium,Les Corts,History
+9,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+9,33,233,0.466,Mercat de la Boqueria,El Raval,Food
+9,34,49,0.20416666666666666,Mercat de Sant Antoni,Sant Antoni,Food
+9,35,6,0.03333333333333333,Mercat de Santa Caterina,El Born,Food
+9,36,35,0.21875,Mercat de la Concepcio,Sant Antoni,Food
+9,37,110,0.275,Mercat dels Encants,Poblenou,History
+9,38,57,0.035625,Barceloneta Beach,La Barceloneta,Nature
+9,39,5,0.005,Port Vell (Promenade),Barri Gotic,History
+9,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+9,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+9,42,24,0.12,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+9,43,6,0.06,El Born Cultural Center,El Born,History
+9,44,30,0.25,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+9,45,18,0.1125,Parc de l'Espanya Industrial,Sants,Nature
+9,46,110,0.4583333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+9,47,74,0.4625,Parc del Turo de la Peira,Nou Barris,Nature
+9,48,20,0.25,Torre Glories Viewpoint,Poblenou,Art
+9,49,147,0.245,Parc Diagonal Mar,Poblenou,Nature
+9,50,176,0.22,Forum Building / Forum Park,Poblenou,History
+10,1,9,0.03,Sagrada Familia,Eixample,Religious
+10,2,25,0.17857142857142858,Parc Guell,Gracia,Nature
+10,3,26,0.01625,La Rambla,Barri Gotic,History
+10,4,22,0.1375,Santa Maria del Mar,El Born,Religious
+10,5,1,0.0125,Casa Batllo,Eixample,Art
+10,6,1,0.01,Casa Mila (La Pedrera),Eixample,Art
+10,7,7,0.016309412861137,Palau de la Musica Catalana,El Born,Art
+10,8,0,0.0,Hospital de Sant Pau,Eixample,History
+10,9,30,0.125,Barcelona Cathedral,Barri Gotic,Religious
+10,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+10,11,31,0.62,Palau Guell,El Raval,Art
+10,12,71,0.5916666666666667,MACBA Museum,El Raval,Art
+10,13,60,0.6,CCCB Center,El Raval,Art
+10,14,29,0.725,Sant Pau del Camp,El Raval,Religious
+10,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+10,16,10,0.1111111111111111,Picasso Museum,El Born,Art
+10,17,13,0.1625,Fundacio Joan Miro,Montjuic,Art
+10,18,34,0.085,MNAC (Palau Nacional),Montjuic,Art
+10,19,44,0.088,Barcelona Zoo,Ciutadella,Nature
+10,20,107,0.107,Parc de la Ciutadella,Ciutadella,Nature
+10,21,13,0.043333333333333335,Castell de Montjuic,Montjuic,History
+10,22,127,0.079375,Magic Fountain of Montjuic,Montjuic,History
+10,23,29,0.041428571428571426,Poble Espanyol,Montjuic,History
+10,24,106,0.009476808639988555,Estadi Olimpic Lluis Companys,Montjuic,History
+10,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+10,26,59,0.36875,Laberint d'Horta,Horta-Guinardo,Nature
+10,27,29,0.3625,Bunkers del Carmel,Horta-Guinardo,Nature
+10,28,87,0.3625,CosmoCaixa,Horta-Guinardo,Art
+10,29,35,0.2916666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+10,30,13,0.26,Casa Vicens,Gracia,Art
+10,31,237,0.011927048734826983,Camp Nou Stadium,Les Corts,History
+10,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+10,33,290,0.58,Mercat de la Boqueria,El Raval,Food
+10,34,81,0.3375,Mercat de Sant Antoni,Sant Antoni,Food
+10,35,20,0.1111111111111111,Mercat de Santa Caterina,El Born,Food
+10,36,52,0.325,Mercat de la Concepcio,Sant Antoni,Food
+10,37,140,0.35,Mercat dels Encants,Poblenou,History
+10,38,114,0.07125,Barceloneta Beach,La Barceloneta,Nature
+10,39,10,0.01,Port Vell (Promenade),Barri Gotic,History
+10,40,10,0.041666666666666664,Aquarium Barcelona,Barri Gotic,Nature
+10,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+10,42,27,0.135,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+10,43,10,0.1,El Born Cultural Center,El Born,History
+10,44,46,0.38333333333333336,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+10,45,29,0.18125,Parc de l'Espanya Industrial,Sants,Nature
+10,46,159,0.6625,Parc Central de Nou Barris,Nou Barris,Nature
+10,47,106,0.6625,Parc del Turo de la Peira,Nou Barris,Nature
+10,48,25,0.3125,Torre Glories Viewpoint,Poblenou,Art
+10,49,209,0.34833333333333333,Parc Diagonal Mar,Poblenou,Nature
+10,50,255,0.31875,Forum Building / Forum Park,Poblenou,History
+11,1,1,0.0033333333333333335,Sagrada Familia,Eixample,Religious
+11,2,7,0.05,Parc Guell,Gracia,Nature
+11,3,4,0.0025,La Rambla,Barri Gotic,History
+11,4,2,0.0125,Santa Maria del Mar,El Born,Religious
+11,5,0,0.0,Casa Batllo,Eixample,Art
+11,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+11,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+11,8,0,0.0,Hospital de Sant Pau,Eixample,History
+11,9,0,0.0,Barcelona Cathedral,Barri Gotic,Religious
+11,10,1,0.008333333333333333,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+11,11,14,0.28,Palau Guell,El Raval,Art
+11,12,8,0.06666666666666667,MACBA Museum,El Raval,Art
+11,13,26,0.26,CCCB Center,El Raval,Art
+11,14,18,0.45,Sant Pau del Camp,El Raval,Religious
+11,15,0,0.0,Church of Sant Josep Oriol,Barri Gotic,Religious
+11,16,0,0.0,Picasso Museum,El Born,Art
+11,17,0,0.0,Fundacio Joan Miro,Montjuic,Art
+11,18,0,0.0,MNAC (Palau Nacional),Montjuic,Art
+11,19,13,0.026,Barcelona Zoo,Ciutadella,Nature
+11,20,26,0.026,Parc de la Ciutadella,Ciutadella,Nature
+11,21,7,0.023333333333333334,Castell de Montjuic,Montjuic,History
+11,22,35,0.021875,Magic Fountain of Montjuic,Montjuic,History
+11,23,3,0.004285714285714286,Poble Espanyol,Montjuic,History
+11,24,32,0.002860923363015413,Estadi Olimpic Lluis Companys,Montjuic,History
+11,25,1,0.014285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+11,26,13,0.08125,Laberint d'Horta,Horta-Guinardo,Nature
+11,27,2,0.025,Bunkers del Carmel,Horta-Guinardo,Nature
+11,28,6,0.025,CosmoCaixa,Horta-Guinardo,Art
+11,29,8,0.06666666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+11,30,0,0.0,Casa Vicens,Gracia,Art
+11,31,67,0.0033717817098456028,Camp Nou Stadium,Les Corts,History
+11,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+11,33,71,0.142,Mercat de la Boqueria,El Raval,Food
+11,34,28,0.11666666666666667,Mercat de Sant Antoni,Sant Antoni,Food
+11,35,10,0.05555555555555555,Mercat de Santa Caterina,El Born,Food
+11,36,12,0.075,Mercat de la Concepcio,Sant Antoni,Food
+11,37,36,0.09,Mercat dels Encants,Poblenou,History
+11,38,31,0.019375,Barceloneta Beach,La Barceloneta,Nature
+11,39,3,0.003,Port Vell (Promenade),Barri Gotic,History
+11,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+11,41,0,0.0,Maritime Museum,Barri Gotic,History
+11,42,0,0.0,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+11,43,1,0.01,El Born Cultural Center,El Born,History
+11,44,11,0.09166666666666666,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+11,45,5,0.03125,Parc de l'Espanya Industrial,Sants,Nature
+11,46,44,0.18333333333333332,Parc Central de Nou Barris,Nou Barris,Nature
+11,47,33,0.20625,Parc del Turo de la Peira,Nou Barris,Nature
+11,48,0,0.0,Torre Glories Viewpoint,Poblenou,Art
+11,49,52,0.08666666666666667,Parc Diagonal Mar,Poblenou,Nature
+11,50,65,0.08125,Forum Building / Forum Park,Poblenou,History
+12,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+12,2,25,0.17857142857142858,Parc Guell,Gracia,Nature
+12,3,26,0.01625,La Rambla,Barri Gotic,History
+12,4,22,0.1375,Santa Maria del Mar,El Born,Religious
+12,5,1,0.0125,Casa Batllo,Eixample,Art
+12,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+12,7,6,0.013979496738117428,Palau de la Musica Catalana,El Born,Art
+12,8,0,0.0,Hospital de Sant Pau,Eixample,History
+12,9,29,0.12083333333333333,Barcelona Cathedral,Barri Gotic,Religious
+12,10,18,0.15,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+12,11,34,0.68,Palau Guell,El Raval,Art
+12,12,82,0.6833333333333333,MACBA Museum,El Raval,Art
+12,13,70,0.7,CCCB Center,El Raval,Art
+12,14,36,0.9,Sant Pau del Camp,El Raval,Religious
+12,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+12,16,13,0.14444444444444443,Picasso Museum,El Born,Art
+12,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+12,18,35,0.0875,MNAC (Palau Nacional),Montjuic,Art
+12,19,42,0.084,Barcelona Zoo,Ciutadella,Nature
+12,20,108,0.108,Parc de la Ciutadella,Ciutadella,Nature
+12,21,13,0.043333333333333335,Castell de Montjuic,Montjuic,History
+12,22,119,0.074375,Magic Fountain of Montjuic,Montjuic,History
+12,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+12,24,96,0.008582770089046239,Estadi Olimpic Lluis Companys,Montjuic,History
+12,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+12,26,60,0.375,Laberint d'Horta,Horta-Guinardo,Nature
+12,27,30,0.375,Bunkers del Carmel,Horta-Guinardo,Nature
+12,28,100,0.4166666666666667,CosmoCaixa,Horta-Guinardo,Art
+12,29,34,0.2833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+12,30,14,0.28,Casa Vicens,Gracia,Art
+12,31,209,0.010517945930712402,Camp Nou Stadium,Les Corts,History
+12,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+12,33,305,0.61,Mercat de la Boqueria,El Raval,Food
+12,34,73,0.30416666666666664,Mercat de Sant Antoni,Sant Antoni,Food
+12,35,19,0.10555555555555556,Mercat de Santa Caterina,El Born,Food
+12,36,52,0.325,Mercat de la Concepcio,Sant Antoni,Food
+12,37,146,0.365,Mercat dels Encants,Poblenou,History
+12,38,104,0.065,Barceloneta Beach,La Barceloneta,Nature
+12,39,8,0.008,Port Vell (Promenade),Barri Gotic,History
+12,40,7,0.029166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+12,41,3,0.025,Maritime Museum,Barri Gotic,History
+12,42,29,0.145,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+12,43,10,0.1,El Born Cultural Center,El Born,History
+12,44,46,0.38333333333333336,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+12,45,27,0.16875,Parc de l'Espanya Industrial,Sants,Nature
+12,46,158,0.6583333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+12,47,105,0.65625,Parc del Turo de la Peira,Nou Barris,Nature
+12,48,28,0.35,Torre Glories Viewpoint,Poblenou,Art
+12,49,214,0.3566666666666667,Parc Diagonal Mar,Poblenou,Nature
+12,50,257,0.32125,Forum Building / Forum Park,Poblenou,History
+13,1,6,0.02,Sagrada Familia,Eixample,Religious
+13,2,23,0.16428571428571428,Parc Guell,Gracia,Nature
+13,3,20,0.0125,La Rambla,Barri Gotic,History
+13,4,18,0.1125,Santa Maria del Mar,El Born,Religious
+13,5,1,0.0125,Casa Batllo,Eixample,Art
+13,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+13,7,2,0.004659832246039143,Palau de la Musica Catalana,El Born,Art
+13,8,0,0.0,Hospital de Sant Pau,Eixample,History
+13,9,23,0.09583333333333334,Barcelona Cathedral,Barri Gotic,Religious
+13,10,15,0.125,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+13,11,27,0.54,Palau Guell,El Raval,Art
+13,12,68,0.5666666666666667,MACBA Museum,El Raval,Art
+13,13,53,0.53,CCCB Center,El Raval,Art
+13,14,27,0.675,Sant Pau del Camp,El Raval,Religious
+13,15,7,0.11666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+13,16,10,0.1111111111111111,Picasso Museum,El Born,Art
+13,17,11,0.1375,Fundacio Joan Miro,Montjuic,Art
+13,18,24,0.06,MNAC (Palau Nacional),Montjuic,Art
+13,19,35,0.07,Barcelona Zoo,Ciutadella,Nature
+13,20,96,0.096,Parc de la Ciutadella,Ciutadella,Nature
+13,21,10,0.03333333333333333,Castell de Montjuic,Montjuic,History
+13,22,99,0.061875,Magic Fountain of Montjuic,Montjuic,History
+13,23,26,0.037142857142857144,Poble Espanyol,Montjuic,History
+13,24,73,0.006526481421878911,Estadi Olimpic Lluis Companys,Montjuic,History
+13,25,7,0.1,Montjuic Cable Car (Teleferic),Montjuic,Nature
+13,26,51,0.31875,Laberint d'Horta,Horta-Guinardo,Nature
+13,27,23,0.2875,Bunkers del Carmel,Horta-Guinardo,Nature
+13,28,69,0.2875,CosmoCaixa,Horta-Guinardo,Art
+13,29,27,0.225,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+13,30,8,0.16,Casa Vicens,Gracia,Art
+13,31,193,0.009712744328361214,Camp Nou Stadium,Les Corts,History
+13,32,0,0.0,FC Barcelona Museum,Les Corts,History
+13,33,273,0.546,Mercat de la Boqueria,El Raval,Food
+13,34,65,0.2708333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+13,35,17,0.09444444444444444,Mercat de Santa Caterina,El Born,Food
+13,36,43,0.26875,Mercat de la Concepcio,Sant Antoni,Food
+13,37,144,0.36,Mercat dels Encants,Poblenou,History
+13,38,87,0.054375,Barceloneta Beach,La Barceloneta,Nature
+13,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+13,40,3,0.0125,Aquarium Barcelona,Barri Gotic,Nature
+13,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+13,42,21,0.105,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+13,43,7,0.07,El Born Cultural Center,El Born,History
+13,44,37,0.30833333333333335,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+13,45,25,0.15625,Parc de l'Espanya Industrial,Sants,Nature
+13,46,142,0.5916666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+13,47,93,0.58125,Parc del Turo de la Peira,Nou Barris,Nature
+13,48,19,0.2375,Torre Glories Viewpoint,Poblenou,Art
+13,49,188,0.31333333333333335,Parc Diagonal Mar,Poblenou,Nature
+13,50,228,0.285,Forum Building / Forum Park,Poblenou,History
+14,1,3,0.01,Sagrada Familia,Eixample,Religious
+14,2,15,0.10714285714285714,Parc Guell,Gracia,Nature
+14,3,11,0.006875,La Rambla,Barri Gotic,History
+14,4,10,0.0625,Santa Maria del Mar,El Born,Religious
+14,5,0,0.0,Casa Batllo,Eixample,Art
+14,6,1,0.01,Casa Mila (La Pedrera),Eixample,Art
+14,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+14,8,0,0.0,Hospital de Sant Pau,Eixample,History
+14,9,14,0.058333333333333334,Barcelona Cathedral,Barri Gotic,Religious
+14,10,7,0.058333333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+14,11,21,0.42,Palau Guell,El Raval,Art
+14,12,48,0.4,MACBA Museum,El Raval,Art
+14,13,41,0.41,CCCB Center,El Raval,Art
+14,14,25,0.625,Sant Pau del Camp,El Raval,Religious
+14,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+14,16,4,0.044444444444444446,Picasso Museum,El Born,Art
+14,17,7,0.0875,Fundacio Joan Miro,Montjuic,Art
+14,18,9,0.0225,MNAC (Palau Nacional),Montjuic,Art
+14,19,14,0.028,Barcelona Zoo,Ciutadella,Nature
+14,20,46,0.046,Parc de la Ciutadella,Ciutadella,Nature
+14,21,6,0.02,Castell de Montjuic,Montjuic,History
+14,22,43,0.026875,Magic Fountain of Montjuic,Montjuic,History
+14,23,9,0.012857142857142857,Poble Espanyol,Montjuic,History
+14,24,40,0.0035761542037692664,Estadi Olimpic Lluis Companys,Montjuic,History
+14,25,2,0.02857142857142857,Montjuic Cable Car (Teleferic),Montjuic,Nature
+14,26,28,0.175,Laberint d'Horta,Horta-Guinardo,Nature
+14,27,11,0.1375,Bunkers del Carmel,Horta-Guinardo,Nature
+14,28,49,0.20416666666666666,CosmoCaixa,Horta-Guinardo,Art
+14,29,19,0.15833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+14,30,6,0.12,Casa Vicens,Gracia,Art
+14,31,108,0.005435110815870524,Camp Nou Stadium,Les Corts,History
+14,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+14,33,160,0.32,Mercat de la Boqueria,El Raval,Food
+14,34,27,0.1125,Mercat de Sant Antoni,Sant Antoni,Food
+14,35,4,0.022222222222222223,Mercat de Santa Caterina,El Born,Food
+14,36,24,0.15,Mercat de la Concepcio,Sant Antoni,Food
+14,37,63,0.1575,Mercat dels Encants,Poblenou,History
+14,38,38,0.02375,Barceloneta Beach,La Barceloneta,Nature
+14,39,1,0.001,Port Vell (Promenade),Barri Gotic,History
+14,40,7,0.029166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+14,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+14,42,14,0.07,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+14,43,4,0.04,El Born Cultural Center,El Born,History
+14,44,21,0.175,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+14,45,11,0.06875,Parc de l'Espanya Industrial,Sants,Nature
+14,46,73,0.30416666666666664,Parc Central de Nou Barris,Nou Barris,Nature
+14,47,49,0.30625,Parc del Turo de la Peira,Nou Barris,Nature
+14,48,14,0.175,Torre Glories Viewpoint,Poblenou,Art
+14,49,97,0.16166666666666665,Parc Diagonal Mar,Poblenou,Nature
+14,50,107,0.13375,Forum Building / Forum Park,Poblenou,History
+15,1,5,0.016666666666666666,Sagrada Familia,Eixample,Religious
+15,2,15,0.10714285714285714,Parc Guell,Gracia,Nature
+15,3,13,0.008125,La Rambla,Barri Gotic,History
+15,4,14,0.0875,Santa Maria del Mar,El Born,Religious
+15,5,0,0.0,Casa Batllo,Eixample,Art
+15,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+15,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+15,8,0,0.0,Hospital de Sant Pau,Eixample,History
+15,9,15,0.0625,Barcelona Cathedral,Barri Gotic,Religious
+15,10,12,0.1,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+15,11,28,0.56,Palau Guell,El Raval,Art
+15,12,58,0.48333333333333334,MACBA Museum,El Raval,Art
+15,13,54,0.54,CCCB Center,El Raval,Art
+15,14,31,0.775,Sant Pau del Camp,El Raval,Religious
+15,15,5,0.08333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+15,16,8,0.08888888888888889,Picasso Museum,El Born,Art
+15,17,9,0.1125,Fundacio Joan Miro,Montjuic,Art
+15,18,19,0.0475,MNAC (Palau Nacional),Montjuic,Art
+15,19,23,0.046,Barcelona Zoo,Ciutadella,Nature
+15,20,67,0.067,Parc de la Ciutadella,Ciutadella,Nature
+15,21,9,0.03,Castell de Montjuic,Montjuic,History
+15,22,55,0.034375,Magic Fountain of Montjuic,Montjuic,History
+15,23,20,0.02857142857142857,Poble Espanyol,Montjuic,History
+15,24,40,0.0035761542037692664,Estadi Olimpic Lluis Companys,Montjuic,History
+15,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+15,26,44,0.275,Laberint d'Horta,Horta-Guinardo,Nature
+15,27,22,0.275,Bunkers del Carmel,Horta-Guinardo,Nature
+15,28,66,0.275,CosmoCaixa,Horta-Guinardo,Art
+15,29,18,0.15,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+15,30,9,0.18,Casa Vicens,Gracia,Art
+15,31,122,0.0061396622179278135,Camp Nou Stadium,Les Corts,History
+15,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+15,33,237,0.474,Mercat de la Boqueria,El Raval,Food
+15,34,58,0.24166666666666667,Mercat de Sant Antoni,Sant Antoni,Food
+15,35,7,0.03888888888888889,Mercat de Santa Caterina,El Born,Food
+15,36,39,0.24375,Mercat de la Concepcio,Sant Antoni,Food
+15,37,114,0.285,Mercat dels Encants,Poblenou,History
+15,38,53,0.033125,Barceloneta Beach,La Barceloneta,Nature
+15,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+15,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+15,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+15,42,16,0.08,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+15,43,3,0.03,El Born Cultural Center,El Born,History
+15,44,33,0.275,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+15,45,19,0.11875,Parc de l'Espanya Industrial,Sants,Nature
+15,46,129,0.5375,Parc Central de Nou Barris,Nou Barris,Nature
+15,47,86,0.5375,Parc del Turo de la Peira,Nou Barris,Nature
+15,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+15,49,163,0.27166666666666667,Parc Diagonal Mar,Poblenou,Nature
+15,50,199,0.24875,Forum Building / Forum Park,Poblenou,History
+16,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+16,2,29,0.20714285714285716,Parc Guell,Gracia,Nature
+16,3,29,0.018125,La Rambla,Barri Gotic,History
+16,4,22,0.1375,Santa Maria del Mar,El Born,Religious
+16,5,0,0.0,Casa Batllo,Eixample,Art
+16,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+16,7,5,0.011649580615097856,Palau de la Musica Catalana,El Born,Art
+16,8,0,0.0,Hospital de Sant Pau,Eixample,History
+16,9,31,0.12916666666666668,Barcelona Cathedral,Barri Gotic,Religious
+16,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+16,11,33,0.66,Palau Guell,El Raval,Art
+16,12,74,0.6166666666666667,MACBA Museum,El Raval,Art
+16,13,66,0.66,CCCB Center,El Raval,Art
+16,14,32,0.8,Sant Pau del Camp,El Raval,Religious
+16,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+16,16,12,0.13333333333333333,Picasso Museum,El Born,Art
+16,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+16,18,35,0.0875,MNAC (Palau Nacional),Montjuic,Art
+16,19,45,0.09,Barcelona Zoo,Ciutadella,Nature
+16,20,106,0.106,Parc de la Ciutadella,Ciutadella,Nature
+16,21,14,0.04666666666666667,Castell de Montjuic,Montjuic,History
+16,22,122,0.07625,Magic Fountain of Montjuic,Montjuic,History
+16,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+16,24,116,0.010370847190930873,Estadi Olimpic Lluis Companys,Montjuic,History
+16,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+16,26,59,0.36875,Laberint d'Horta,Horta-Guinardo,Nature
+16,27,29,0.3625,Bunkers del Carmel,Horta-Guinardo,Nature
+16,28,91,0.37916666666666665,CosmoCaixa,Horta-Guinardo,Art
+16,29,35,0.2916666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+16,30,14,0.28,Casa Vicens,Gracia,Art
+16,31,227,0.01142379773335749,Camp Nou Stadium,Les Corts,History
+16,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+16,33,301,0.602,Mercat de la Boqueria,El Raval,Food
+16,34,78,0.325,Mercat de Sant Antoni,Sant Antoni,Food
+16,35,19,0.10555555555555556,Mercat de Santa Caterina,El Born,Food
+16,36,52,0.325,Mercat de la Concepcio,Sant Antoni,Food
+16,37,138,0.345,Mercat dels Encants,Poblenou,History
+16,38,105,0.065625,Barceloneta Beach,La Barceloneta,Nature
+16,39,8,0.008,Port Vell (Promenade),Barri Gotic,History
+16,40,9,0.0375,Aquarium Barcelona,Barri Gotic,Nature
+16,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+16,42,27,0.135,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+16,43,11,0.11,El Born Cultural Center,El Born,History
+16,44,47,0.39166666666666666,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+16,45,28,0.175,Parc de l'Espanya Industrial,Sants,Nature
+16,46,157,0.6541666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+16,47,104,0.65,Parc del Turo de la Peira,Nou Barris,Nature
+16,48,25,0.3125,Torre Glories Viewpoint,Poblenou,Art
+16,49,212,0.35333333333333333,Parc Diagonal Mar,Poblenou,Nature
+16,50,254,0.3175,Forum Building / Forum Park,Poblenou,History
+17,1,2,0.006666666666666667,Sagrada Familia,Eixample,Religious
+17,2,18,0.12857142857142856,Parc Guell,Gracia,Nature
+17,3,12,0.0075,La Rambla,Barri Gotic,History
+17,4,6,0.0375,Santa Maria del Mar,El Born,Religious
+17,5,0,0.0,Casa Batllo,Eixample,Art
+17,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+17,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+17,8,0,0.0,Hospital de Sant Pau,Eixample,History
+17,9,8,0.03333333333333333,Barcelona Cathedral,Barri Gotic,Religious
+17,10,7,0.058333333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+17,11,16,0.32,Palau Guell,El Raval,Art
+17,12,24,0.2,MACBA Museum,El Raval,Art
+17,13,32,0.32,CCCB Center,El Raval,Art
+17,14,17,0.425,Sant Pau del Camp,El Raval,Religious
+17,15,2,0.03333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+17,16,2,0.022222222222222223,Picasso Museum,El Born,Art
+17,17,1,0.0125,Fundacio Joan Miro,Montjuic,Art
+17,18,7,0.0175,MNAC (Palau Nacional),Montjuic,Art
+17,19,23,0.046,Barcelona Zoo,Ciutadella,Nature
+17,20,47,0.047,Parc de la Ciutadella,Ciutadella,Nature
+17,21,8,0.02666666666666667,Castell de Montjuic,Montjuic,History
+17,22,50,0.03125,Magic Fountain of Montjuic,Montjuic,History
+17,23,12,0.017142857142857144,Poble Espanyol,Montjuic,History
+17,24,54,0.00482780817508851,Estadi Olimpic Lluis Companys,Montjuic,History
+17,25,4,0.05714285714285714,Montjuic Cable Car (Teleferic),Montjuic,Nature
+17,26,24,0.15,Laberint d'Horta,Horta-Guinardo,Nature
+17,27,12,0.15,Bunkers del Carmel,Horta-Guinardo,Nature
+17,28,19,0.07916666666666666,CosmoCaixa,Horta-Guinardo,Art
+17,29,12,0.1,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+17,30,1,0.02,Casa Vicens,Gracia,Art
+17,31,81,0.004076333111902893,Camp Nou Stadium,Les Corts,History
+17,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+17,33,122,0.244,Mercat de la Boqueria,El Raval,Food
+17,34,38,0.15833333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+17,35,10,0.05555555555555555,Mercat de Santa Caterina,El Born,Food
+17,36,21,0.13125,Mercat de la Concepcio,Sant Antoni,Food
+17,37,58,0.145,Mercat dels Encants,Poblenou,History
+17,38,44,0.0275,Barceloneta Beach,La Barceloneta,Nature
+17,39,3,0.003,Port Vell (Promenade),Barri Gotic,History
+17,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+17,41,0,0.0,Maritime Museum,Barri Gotic,History
+17,42,6,0.03,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+17,43,4,0.04,El Born Cultural Center,El Born,History
+17,44,24,0.2,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+17,45,7,0.04375,Parc de l'Espanya Industrial,Sants,Nature
+17,46,72,0.3,Parc Central de Nou Barris,Nou Barris,Nature
+17,47,51,0.31875,Parc del Turo de la Peira,Nou Barris,Nature
+17,48,3,0.0375,Torre Glories Viewpoint,Poblenou,Art
+17,49,85,0.14166666666666666,Parc Diagonal Mar,Poblenou,Nature
+17,50,113,0.14125,Forum Building / Forum Park,Poblenou,History
+18,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+18,2,22,0.15714285714285714,Parc Guell,Gracia,Nature
+18,3,32,0.02,La Rambla,Barri Gotic,History
+18,4,22,0.1375,Santa Maria del Mar,El Born,Religious
+18,5,1,0.0125,Casa Batllo,Eixample,Art
+18,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+18,7,6,0.013979496738117428,Palau de la Musica Catalana,El Born,Art
+18,8,0,0.0,Hospital de Sant Pau,Eixample,History
+18,9,31,0.12916666666666668,Barcelona Cathedral,Barri Gotic,Religious
+18,10,19,0.15833333333333333,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+18,11,34,0.68,Palau Guell,El Raval,Art
+18,12,80,0.6666666666666666,MACBA Museum,El Raval,Art
+18,13,70,0.7,CCCB Center,El Raval,Art
+18,14,35,0.875,Sant Pau del Camp,El Raval,Religious
+18,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+18,16,13,0.14444444444444443,Picasso Museum,El Born,Art
+18,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+18,18,38,0.095,MNAC (Palau Nacional),Montjuic,Art
+18,19,43,0.086,Barcelona Zoo,Ciutadella,Nature
+18,20,107,0.107,Parc de la Ciutadella,Ciutadella,Nature
+18,21,14,0.04666666666666667,Castell de Montjuic,Montjuic,History
+18,22,119,0.074375,Magic Fountain of Montjuic,Montjuic,History
+18,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+18,24,115,0.010281443335836641,Estadi Olimpic Lluis Companys,Montjuic,History
+18,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+18,26,58,0.3625,Laberint d'Horta,Horta-Guinardo,Nature
+18,27,29,0.3625,Bunkers del Carmel,Horta-Guinardo,Nature
+18,28,100,0.4166666666666667,CosmoCaixa,Horta-Guinardo,Art
+18,29,34,0.2833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+18,30,15,0.3,Casa Vicens,Gracia,Art
+18,31,241,0.01212834913541478,Camp Nou Stadium,Les Corts,History
+18,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+18,33,303,0.606,Mercat de la Boqueria,El Raval,Food
+18,34,73,0.30416666666666664,Mercat de Sant Antoni,Sant Antoni,Food
+18,35,16,0.08888888888888889,Mercat de Santa Caterina,El Born,Food
+18,36,50,0.3125,Mercat de la Concepcio,Sant Antoni,Food
+18,37,143,0.3575,Mercat dels Encants,Poblenou,History
+18,38,106,0.06625,Barceloneta Beach,La Barceloneta,Nature
+18,39,10,0.01,Port Vell (Promenade),Barri Gotic,History
+18,40,9,0.0375,Aquarium Barcelona,Barri Gotic,Nature
+18,41,3,0.025,Maritime Museum,Barri Gotic,History
+18,42,30,0.15,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+18,43,9,0.09,El Born Cultural Center,El Born,History
+18,44,44,0.36666666666666664,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+18,45,28,0.175,Parc de l'Espanya Industrial,Sants,Nature
+18,46,155,0.6458333333333334,Parc Central de Nou Barris,Nou Barris,Nature
+18,47,103,0.64375,Parc del Turo de la Peira,Nou Barris,Nature
+18,48,27,0.3375,Torre Glories Viewpoint,Poblenou,Art
+18,49,209,0.34833333333333333,Parc Diagonal Mar,Poblenou,Nature
+18,50,253,0.31625,Forum Building / Forum Park,Poblenou,History
+19,1,6,0.02,Sagrada Familia,Eixample,Religious
+19,2,8,0.05714285714285714,Parc Guell,Gracia,Nature
+19,3,16,0.01,La Rambla,Barri Gotic,History
+19,4,12,0.075,Santa Maria del Mar,El Born,Religious
+19,5,1,0.0125,Casa Batllo,Eixample,Art
+19,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+19,7,2,0.004659832246039143,Palau de la Musica Catalana,El Born,Art
+19,8,0,0.0,Hospital de Sant Pau,Eixample,History
+19,9,17,0.07083333333333333,Barcelona Cathedral,Barri Gotic,Religious
+19,10,10,0.08333333333333333,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+19,11,23,0.46,Palau Guell,El Raval,Art
+19,12,49,0.4083333333333333,MACBA Museum,El Raval,Art
+19,13,42,0.42,CCCB Center,El Raval,Art
+19,14,22,0.55,Sant Pau del Camp,El Raval,Religious
+19,15,5,0.08333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+19,16,8,0.08888888888888889,Picasso Museum,El Born,Art
+19,17,9,0.1125,Fundacio Joan Miro,Montjuic,Art
+19,18,18,0.045,MNAC (Palau Nacional),Montjuic,Art
+19,19,17,0.034,Barcelona Zoo,Ciutadella,Nature
+19,20,48,0.048,Parc de la Ciutadella,Ciutadella,Nature
+19,21,8,0.02666666666666667,Castell de Montjuic,Montjuic,History
+19,22,47,0.029375,Magic Fountain of Montjuic,Montjuic,History
+19,23,17,0.024285714285714285,Poble Espanyol,Montjuic,History
+19,24,45,0.004023173479240425,Estadi Olimpic Lluis Companys,Montjuic,History
+19,25,5,0.07142857142857142,Montjuic Cable Car (Teleferic),Montjuic,Nature
+19,26,23,0.14375,Laberint d'Horta,Horta-Guinardo,Nature
+19,27,12,0.15,Bunkers del Carmel,Horta-Guinardo,Nature
+19,28,55,0.22916666666666666,CosmoCaixa,Horta-Guinardo,Art
+19,29,15,0.125,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+19,30,9,0.18,Casa Vicens,Gracia,Art
+19,31,135,0.006793888519838155,Camp Nou Stadium,Les Corts,History
+19,32,0,0.0,FC Barcelona Museum,Les Corts,History
+19,33,174,0.348,Mercat de la Boqueria,El Raval,Food
+19,34,29,0.12083333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+19,35,6,0.03333333333333333,Mercat de Santa Caterina,El Born,Food
+19,36,23,0.14375,Mercat de la Concepcio,Sant Antoni,Food
+19,37,90,0.225,Mercat dels Encants,Poblenou,History
+19,38,42,0.02625,Barceloneta Beach,La Barceloneta,Nature
+19,39,5,0.005,Port Vell (Promenade),Barri Gotic,History
+19,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+19,41,1,0.008333333333333333,Maritime Museum,Barri Gotic,History
+19,42,17,0.085,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+19,43,4,0.04,El Born Cultural Center,El Born,History
+19,44,16,0.13333333333333333,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+19,45,16,0.1,Parc de l'Espanya Industrial,Sants,Nature
+19,46,73,0.30416666666666664,Parc Central de Nou Barris,Nou Barris,Nature
+19,47,51,0.31875,Parc del Turo de la Peira,Nou Barris,Nature
+19,48,16,0.2,Torre Glories Viewpoint,Poblenou,Art
+19,49,107,0.17833333333333334,Parc Diagonal Mar,Poblenou,Nature
+19,50,113,0.14125,Forum Building / Forum Park,Poblenou,History
+20,1,3,0.01,Sagrada Familia,Eixample,Religious
+20,2,17,0.12142857142857143,Parc Guell,Gracia,Nature
+20,3,15,0.009375,La Rambla,Barri Gotic,History
+20,4,10,0.0625,Santa Maria del Mar,El Born,Religious
+20,5,0,0.0,Casa Batllo,Eixample,Art
+20,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+20,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+20,8,0,0.0,Hospital de Sant Pau,Eixample,History
+20,9,14,0.058333333333333334,Barcelona Cathedral,Barri Gotic,Religious
+20,10,7,0.058333333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+20,11,25,0.5,Palau Guell,El Raval,Art
+20,12,56,0.4666666666666667,MACBA Museum,El Raval,Art
+20,13,49,0.49,CCCB Center,El Raval,Art
+20,14,29,0.725,Sant Pau del Camp,El Raval,Religious
+20,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+20,16,5,0.05555555555555555,Picasso Museum,El Born,Art
+20,17,5,0.0625,Fundacio Joan Miro,Montjuic,Art
+20,18,8,0.02,MNAC (Palau Nacional),Montjuic,Art
+20,19,21,0.042,Barcelona Zoo,Ciutadella,Nature
+20,20,63,0.063,Parc de la Ciutadella,Ciutadella,Nature
+20,21,5,0.016666666666666666,Castell de Montjuic,Montjuic,History
+20,22,53,0.033125,Magic Fountain of Montjuic,Montjuic,History
+20,23,14,0.02,Poble Espanyol,Montjuic,History
+20,24,44,0.003933769624146193,Estadi Olimpic Lluis Companys,Montjuic,History
+20,25,4,0.05714285714285714,Montjuic Cable Car (Teleferic),Montjuic,Nature
+20,26,42,0.2625,Laberint d'Horta,Horta-Guinardo,Nature
+20,27,19,0.2375,Bunkers del Carmel,Horta-Guinardo,Nature
+20,28,59,0.24583333333333332,CosmoCaixa,Horta-Guinardo,Art
+20,29,21,0.175,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+20,30,7,0.14,Casa Vicens,Gracia,Art
+20,31,108,0.005435110815870524,Camp Nou Stadium,Les Corts,History
+20,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+20,33,213,0.426,Mercat de la Boqueria,El Raval,Food
+20,34,54,0.225,Mercat de Sant Antoni,Sant Antoni,Food
+20,35,7,0.03888888888888889,Mercat de Santa Caterina,El Born,Food
+20,36,36,0.225,Mercat de la Concepcio,Sant Antoni,Food
+20,37,99,0.2475,Mercat dels Encants,Poblenou,History
+20,38,46,0.02875,Barceloneta Beach,La Barceloneta,Nature
+20,39,1,0.001,Port Vell (Promenade),Barri Gotic,History
+20,40,3,0.0125,Aquarium Barcelona,Barri Gotic,Nature
+20,41,3,0.025,Maritime Museum,Barri Gotic,History
+20,42,11,0.055,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+20,43,5,0.05,El Born Cultural Center,El Born,History
+20,44,30,0.25,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+20,45,15,0.09375,Parc de l'Espanya Industrial,Sants,Nature
+20,46,125,0.5208333333333334,Parc Central de Nou Barris,Nou Barris,Nature
+20,47,83,0.51875,Parc del Turo de la Peira,Nou Barris,Nature
+20,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+20,49,154,0.25666666666666665,Parc Diagonal Mar,Poblenou,Nature
+20,50,176,0.22,Forum Building / Forum Park,Poblenou,History
+21,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+21,2,20,0.14285714285714285,Parc Guell,Gracia,Nature
+21,3,20,0.0125,La Rambla,Barri Gotic,History
+21,4,21,0.13125,Santa Maria del Mar,El Born,Religious
+21,5,1,0.0125,Casa Batllo,Eixample,Art
+21,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+21,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+21,8,0,0.0,Hospital de Sant Pau,Eixample,History
+21,9,21,0.0875,Barcelona Cathedral,Barri Gotic,Religious
+21,10,15,0.125,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+21,11,33,0.66,Palau Guell,El Raval,Art
+21,12,70,0.5833333333333334,MACBA Museum,El Raval,Art
+21,13,65,0.65,CCCB Center,El Raval,Art
+21,14,37,0.925,Sant Pau del Camp,El Raval,Religious
+21,15,7,0.11666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+21,16,9,0.1,Picasso Museum,El Born,Art
+21,17,13,0.1625,Fundacio Joan Miro,Montjuic,Art
+21,18,27,0.0675,MNAC (Palau Nacional),Montjuic,Art
+21,19,34,0.068,Barcelona Zoo,Ciutadella,Nature
+21,20,91,0.091,Parc de la Ciutadella,Ciutadella,Nature
+21,21,11,0.03666666666666667,Castell de Montjuic,Montjuic,History
+21,22,86,0.05375,Magic Fountain of Montjuic,Montjuic,History
+21,23,25,0.03571428571428571,Poble Espanyol,Montjuic,History
+21,24,63,0.005632442870936594,Estadi Olimpic Lluis Companys,Montjuic,History
+21,25,8,0.11428571428571428,Montjuic Cable Car (Teleferic),Montjuic,Nature
+21,26,53,0.33125,Laberint d'Horta,Horta-Guinardo,Nature
+21,27,26,0.325,Bunkers del Carmel,Horta-Guinardo,Nature
+21,28,82,0.3416666666666667,CosmoCaixa,Horta-Guinardo,Art
+21,29,25,0.20833333333333334,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+21,30,12,0.24,Casa Vicens,Gracia,Art
+21,31,179,0.009008192926303924,Camp Nou Stadium,Les Corts,History
+21,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+21,33,286,0.572,Mercat de la Boqueria,El Raval,Food
+21,34,67,0.2791666666666667,Mercat de Sant Antoni,Sant Antoni,Food
+21,35,12,0.06666666666666667,Mercat de Santa Caterina,El Born,Food
+21,36,47,0.29375,Mercat de la Concepcio,Sant Antoni,Food
+21,37,136,0.34,Mercat dels Encants,Poblenou,History
+21,38,78,0.04875,Barceloneta Beach,La Barceloneta,Nature
+21,39,5,0.005,Port Vell (Promenade),Barri Gotic,History
+21,40,4,0.016666666666666666,Aquarium Barcelona,Barri Gotic,Nature
+21,41,3,0.025,Maritime Museum,Barri Gotic,History
+21,42,24,0.12,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+21,43,8,0.08,El Born Cultural Center,El Born,History
+21,44,41,0.3416666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+21,45,25,0.15625,Parc de l'Espanya Industrial,Sants,Nature
+21,46,146,0.6083333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+21,47,97,0.60625,Parc del Turo de la Peira,Nou Barris,Nature
+21,48,24,0.3,Torre Glories Viewpoint,Poblenou,Art
+21,49,194,0.3233333333333333,Parc Diagonal Mar,Poblenou,Nature
+21,50,234,0.2925,Forum Building / Forum Park,Poblenou,History
+22,1,10,0.03333333333333333,Sagrada Familia,Eixample,Religious
+22,2,25,0.17857142857142858,Parc Guell,Gracia,Nature
+22,3,29,0.018125,La Rambla,Barri Gotic,History
+22,4,23,0.14375,Santa Maria del Mar,El Born,Religious
+22,5,1,0.0125,Casa Batllo,Eixample,Art
+22,6,1,0.01,Casa Mila (La Pedrera),Eixample,Art
+22,7,8,0.018639328984156572,Palau de la Musica Catalana,El Born,Art
+22,8,0,0.0,Hospital de Sant Pau,Eixample,History
+22,9,32,0.13333333333333333,Barcelona Cathedral,Barri Gotic,Religious
+22,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+22,11,33,0.66,Palau Guell,El Raval,Art
+22,12,72,0.6,MACBA Museum,El Raval,Art
+22,13,64,0.64,CCCB Center,El Raval,Art
+22,14,30,0.75,Sant Pau del Camp,El Raval,Religious
+22,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+22,16,11,0.12222222222222222,Picasso Museum,El Born,Art
+22,17,16,0.2,Fundacio Joan Miro,Montjuic,Art
+22,18,37,0.0925,MNAC (Palau Nacional),Montjuic,Art
+22,19,45,0.09,Barcelona Zoo,Ciutadella,Nature
+22,20,101,0.101,Parc de la Ciutadella,Ciutadella,Nature
+22,21,13,0.043333333333333335,Castell de Montjuic,Montjuic,History
+22,22,120,0.075,Magic Fountain of Montjuic,Montjuic,History
+22,23,30,0.04285714285714286,Poble Espanyol,Montjuic,History
+22,24,117,0.010460251046025104,Estadi Olimpic Lluis Companys,Montjuic,History
+22,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+22,26,57,0.35625,Laberint d'Horta,Horta-Guinardo,Nature
+22,27,29,0.3625,Bunkers del Carmel,Horta-Guinardo,Nature
+22,28,92,0.38333333333333336,CosmoCaixa,Horta-Guinardo,Art
+22,29,34,0.2833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+22,30,14,0.28,Casa Vicens,Gracia,Art
+22,31,231,0.011625098133945288,Camp Nou Stadium,Les Corts,History
+22,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+22,33,297,0.594,Mercat de la Boqueria,El Raval,Food
+22,34,73,0.30416666666666664,Mercat de Sant Antoni,Sant Antoni,Food
+22,35,18,0.1,Mercat de Santa Caterina,El Born,Food
+22,36,51,0.31875,Mercat de la Concepcio,Sant Antoni,Food
+22,37,137,0.3425,Mercat dels Encants,Poblenou,History
+22,38,107,0.066875,Barceloneta Beach,La Barceloneta,Nature
+22,39,8,0.008,Port Vell (Promenade),Barri Gotic,History
+22,40,10,0.041666666666666664,Aquarium Barcelona,Barri Gotic,Nature
+22,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+22,42,28,0.14,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+22,43,11,0.11,El Born Cultural Center,El Born,History
+22,44,44,0.36666666666666664,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+22,45,28,0.175,Parc de l'Espanya Industrial,Sants,Nature
+22,46,154,0.6416666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+22,47,102,0.6375,Parc del Turo de la Peira,Nou Barris,Nature
+22,48,26,0.325,Torre Glories Viewpoint,Poblenou,Art
+22,49,207,0.345,Parc Diagonal Mar,Poblenou,Nature
+22,50,252,0.315,Forum Building / Forum Park,Poblenou,History
+23,1,1,0.0033333333333333335,Sagrada Familia,Eixample,Religious
+23,2,8,0.05714285714285714,Parc Guell,Gracia,Nature
+23,3,6,0.00375,La Rambla,Barri Gotic,History
+23,4,0,0.0,Santa Maria del Mar,El Born,Religious
+23,5,0,0.0,Casa Batllo,Eixample,Art
+23,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+23,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+23,8,0,0.0,Hospital de Sant Pau,Eixample,History
+23,9,1,0.004166666666666667,Barcelona Cathedral,Barri Gotic,Religious
+23,10,2,0.016666666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+23,11,12,0.24,Palau Guell,El Raval,Art
+23,12,17,0.14166666666666666,MACBA Museum,El Raval,Art
+23,13,21,0.21,CCCB Center,El Raval,Art
+23,14,18,0.45,Sant Pau del Camp,El Raval,Religious
+23,15,0,0.0,Church of Sant Josep Oriol,Barri Gotic,Religious
+23,16,0,0.0,Picasso Museum,El Born,Art
+23,17,0,0.0,Fundacio Joan Miro,Montjuic,Art
+23,18,0,0.0,MNAC (Palau Nacional),Montjuic,Art
+23,19,6,0.012,Barcelona Zoo,Ciutadella,Nature
+23,20,24,0.024,Parc de la Ciutadella,Ciutadella,Nature
+23,21,2,0.006666666666666667,Castell de Montjuic,Montjuic,History
+23,22,12,0.0075,Magic Fountain of Montjuic,Montjuic,History
+23,23,3,0.004285714285714286,Poble Espanyol,Montjuic,History
+23,24,23,0.002056288667167328,Estadi Olimpic Lluis Companys,Montjuic,History
+23,25,1,0.014285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+23,26,14,0.0875,Laberint d'Horta,Horta-Guinardo,Nature
+23,27,5,0.0625,Bunkers del Carmel,Horta-Guinardo,Nature
+23,28,9,0.0375,CosmoCaixa,Horta-Guinardo,Art
+23,29,5,0.041666666666666664,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+23,30,0,0.0,Casa Vicens,Gracia,Art
+23,31,49,0.0024659299072005156,Camp Nou Stadium,Les Corts,History
+23,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+23,33,83,0.166,Mercat de la Boqueria,El Raval,Food
+23,34,25,0.10416666666666667,Mercat de Sant Antoni,Sant Antoni,Food
+23,35,3,0.016666666666666666,Mercat de Santa Caterina,El Born,Food
+23,36,12,0.075,Mercat de la Concepcio,Sant Antoni,Food
+23,37,54,0.135,Mercat dels Encants,Poblenou,History
+23,38,16,0.01,Barceloneta Beach,La Barceloneta,Nature
+23,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+23,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+23,41,0,0.0,Maritime Museum,Barri Gotic,History
+23,42,0,0.0,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+23,43,1,0.01,El Born Cultural Center,El Born,History
+23,44,11,0.09166666666666666,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+23,45,3,0.01875,Parc de l'Espanya Industrial,Sants,Nature
+23,46,51,0.2125,Parc Central de Nou Barris,Nou Barris,Nature
+23,47,51,0.31875,Parc del Turo de la Peira,Nou Barris,Nature
+23,48,1,0.0125,Torre Glories Viewpoint,Poblenou,Art
+23,49,59,0.09833333333333333,Parc Diagonal Mar,Poblenou,Nature
+23,50,66,0.0825,Forum Building / Forum Park,Poblenou,History
+24,1,7,0.023333333333333334,Sagrada Familia,Eixample,Religious
+24,2,21,0.15,Parc Guell,Gracia,Nature
+24,3,22,0.01375,La Rambla,Barri Gotic,History
+24,4,21,0.13125,Santa Maria del Mar,El Born,Religious
+24,5,1,0.0125,Casa Batllo,Eixample,Art
+24,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+24,7,4,0.009319664492078286,Palau de la Musica Catalana,El Born,Art
+24,8,0,0.0,Hospital de Sant Pau,Eixample,History
+24,9,28,0.11666666666666667,Barcelona Cathedral,Barri Gotic,Religious
+24,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+24,11,34,0.68,Palau Guell,El Raval,Art
+24,12,79,0.6583333333333333,MACBA Museum,El Raval,Art
+24,13,67,0.67,CCCB Center,El Raval,Art
+24,14,35,0.875,Sant Pau del Camp,El Raval,Religious
+24,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+24,16,13,0.14444444444444443,Picasso Museum,El Born,Art
+24,17,15,0.1875,Fundacio Joan Miro,Montjuic,Art
+24,18,32,0.08,MNAC (Palau Nacional),Montjuic,Art
+24,19,30,0.06,Barcelona Zoo,Ciutadella,Nature
+24,20,82,0.082,Parc de la Ciutadella,Ciutadella,Nature
+24,21,12,0.04,Castell de Montjuic,Montjuic,History
+24,22,82,0.05125,Magic Fountain of Montjuic,Montjuic,History
+24,23,28,0.04,Poble Espanyol,Montjuic,History
+24,24,57,0.005096019740371205,Estadi Olimpic Lluis Companys,Montjuic,History
+24,25,7,0.1,Montjuic Cable Car (Teleferic),Montjuic,Nature
+24,26,52,0.325,Laberint d'Horta,Horta-Guinardo,Nature
+24,27,26,0.325,Bunkers del Carmel,Horta-Guinardo,Nature
+24,28,95,0.3958333333333333,CosmoCaixa,Horta-Guinardo,Art
+24,29,32,0.26666666666666666,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+24,30,14,0.28,Casa Vicens,Gracia,Art
+24,31,153,0.007699740322483242,Camp Nou Stadium,Les Corts,History
+24,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+24,33,281,0.562,Mercat de la Boqueria,El Raval,Food
+24,34,61,0.25416666666666665,Mercat de Sant Antoni,Sant Antoni,Food
+24,35,11,0.06111111111111111,Mercat de Santa Caterina,El Born,Food
+24,36,44,0.275,Mercat de la Concepcio,Sant Antoni,Food
+24,37,129,0.3225,Mercat dels Encants,Poblenou,History
+24,38,70,0.04375,Barceloneta Beach,La Barceloneta,Nature
+24,39,7,0.007,Port Vell (Promenade),Barri Gotic,History
+24,40,4,0.016666666666666666,Aquarium Barcelona,Barri Gotic,Nature
+24,41,3,0.025,Maritime Museum,Barri Gotic,History
+24,42,28,0.14,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+24,43,6,0.06,El Born Cultural Center,El Born,History
+24,44,39,0.325,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+24,45,23,0.14375,Parc de l'Espanya Industrial,Sants,Nature
+24,46,140,0.5833333333333334,Parc Central de Nou Barris,Nou Barris,Nature
+24,47,93,0.58125,Parc del Turo de la Peira,Nou Barris,Nature
+24,48,26,0.325,Torre Glories Viewpoint,Poblenou,Art
+24,49,184,0.30666666666666664,Parc Diagonal Mar,Poblenou,Nature
+24,50,223,0.27875,Forum Building / Forum Park,Poblenou,History
+25,1,6,0.02,Sagrada Familia,Eixample,Religious
+25,2,21,0.15,Parc Guell,Gracia,Nature
+25,3,19,0.011875,La Rambla,Barri Gotic,History
+25,4,19,0.11875,Santa Maria del Mar,El Born,Religious
+25,5,1,0.0125,Casa Batllo,Eixample,Art
+25,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+25,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+25,8,0,0.0,Hospital de Sant Pau,Eixample,History
+25,9,22,0.09166666666666666,Barcelona Cathedral,Barri Gotic,Religious
+25,10,13,0.10833333333333334,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+25,11,26,0.52,Palau Guell,El Raval,Art
+25,12,55,0.4583333333333333,MACBA Museum,El Raval,Art
+25,13,52,0.52,CCCB Center,El Raval,Art
+25,14,26,0.65,Sant Pau del Camp,El Raval,Religious
+25,15,8,0.13333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+25,16,10,0.1111111111111111,Picasso Museum,El Born,Art
+25,17,10,0.125,Fundacio Joan Miro,Montjuic,Art
+25,18,20,0.05,MNAC (Palau Nacional),Montjuic,Art
+25,19,36,0.072,Barcelona Zoo,Ciutadella,Nature
+25,20,94,0.094,Parc de la Ciutadella,Ciutadella,Nature
+25,21,11,0.03666666666666667,Castell de Montjuic,Montjuic,History
+25,22,96,0.06,Magic Fountain of Montjuic,Montjuic,History
+25,23,24,0.03428571428571429,Poble Espanyol,Montjuic,History
+25,24,70,0.006258269856596216,Estadi Olimpic Lluis Companys,Montjuic,History
+25,25,8,0.11428571428571428,Montjuic Cable Car (Teleferic),Montjuic,Nature
+25,26,54,0.3375,Laberint d'Horta,Horta-Guinardo,Nature
+25,27,26,0.325,Bunkers del Carmel,Horta-Guinardo,Nature
+25,28,61,0.25416666666666665,CosmoCaixa,Horta-Guinardo,Art
+25,29,25,0.20833333333333334,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+25,30,9,0.18,Casa Vicens,Gracia,Art
+25,31,159,0.008001690923364937,Camp Nou Stadium,Les Corts,History
+25,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+25,33,284,0.568,Mercat de la Boqueria,El Raval,Food
+25,34,74,0.30833333333333335,Mercat de Sant Antoni,Sant Antoni,Food
+25,35,18,0.1,Mercat de Santa Caterina,El Born,Food
+25,36,48,0.3,Mercat de la Concepcio,Sant Antoni,Food
+25,37,141,0.3525,Mercat dels Encants,Poblenou,History
+25,38,80,0.05,Barceloneta Beach,La Barceloneta,Nature
+25,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+25,40,3,0.0125,Aquarium Barcelona,Barri Gotic,Nature
+25,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+25,42,20,0.1,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+25,43,7,0.07,El Born Cultural Center,El Born,History
+25,44,39,0.325,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+25,45,26,0.1625,Parc de l'Espanya Industrial,Sants,Nature
+25,46,152,0.6333333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+25,47,99,0.61875,Parc del Turo de la Peira,Nou Barris,Nature
+25,48,17,0.2125,Torre Glories Viewpoint,Poblenou,Art
+25,49,197,0.3283333333333333,Parc Diagonal Mar,Poblenou,Nature
+25,50,236,0.295,Forum Building / Forum Park,Poblenou,History
+26,1,3,0.01,Sagrada Familia,Eixample,Religious
+26,2,18,0.12857142857142856,Parc Guell,Gracia,Nature
+26,3,13,0.008125,La Rambla,Barri Gotic,History
+26,4,10,0.0625,Santa Maria del Mar,El Born,Religious
+26,5,0,0.0,Casa Batllo,Eixample,Art
+26,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+26,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+26,8,0,0.0,Hospital de Sant Pau,Eixample,History
+26,9,14,0.058333333333333334,Barcelona Cathedral,Barri Gotic,Religious
+26,10,9,0.075,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+26,11,23,0.46,Palau Guell,El Raval,Art
+26,12,53,0.44166666666666665,MACBA Museum,El Raval,Art
+26,13,45,0.45,CCCB Center,El Raval,Art
+26,14,26,0.65,Sant Pau del Camp,El Raval,Religious
+26,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+26,16,5,0.05555555555555555,Picasso Museum,El Born,Art
+26,17,8,0.1,Fundacio Joan Miro,Montjuic,Art
+26,18,11,0.0275,MNAC (Palau Nacional),Montjuic,Art
+26,19,27,0.054,Barcelona Zoo,Ciutadella,Nature
+26,20,70,0.07,Parc de la Ciutadella,Ciutadella,Nature
+26,21,6,0.02,Castell de Montjuic,Montjuic,History
+26,22,80,0.05,Magic Fountain of Montjuic,Montjuic,History
+26,23,17,0.024285714285714285,Poble Espanyol,Montjuic,History
+26,24,70,0.006258269856596216,Estadi Olimpic Lluis Companys,Montjuic,History
+26,25,7,0.1,Montjuic Cable Car (Teleferic),Montjuic,Nature
+26,26,39,0.24375,Laberint d'Horta,Horta-Guinardo,Nature
+26,27,16,0.2,Bunkers del Carmel,Horta-Guinardo,Nature
+26,28,58,0.24166666666666667,CosmoCaixa,Horta-Guinardo,Art
+26,29,21,0.175,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+26,30,7,0.14,Casa Vicens,Gracia,Art
+26,31,145,0.0072971395213076475,Camp Nou Stadium,Les Corts,History
+26,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+26,33,189,0.378,Mercat de la Boqueria,El Raval,Food
+26,34,53,0.22083333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+26,35,16,0.08888888888888889,Mercat de Santa Caterina,El Born,Food
+26,36,36,0.225,Mercat de la Concepcio,Sant Antoni,Food
+26,37,84,0.21,Mercat dels Encants,Poblenou,History
+26,38,70,0.04375,Barceloneta Beach,La Barceloneta,Nature
+26,39,3,0.003,Port Vell (Promenade),Barri Gotic,History
+26,40,5,0.020833333333333332,Aquarium Barcelona,Barri Gotic,Nature
+26,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+26,42,13,0.065,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+26,43,7,0.07,El Born Cultural Center,El Born,History
+26,44,29,0.24166666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+26,45,15,0.09375,Parc de l'Espanya Industrial,Sants,Nature
+26,46,103,0.42916666666666664,Parc Central de Nou Barris,Nou Barris,Nature
+26,47,68,0.425,Parc del Turo de la Peira,Nou Barris,Nature
+26,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+26,49,130,0.21666666666666667,Parc Diagonal Mar,Poblenou,Nature
+26,50,156,0.195,Forum Building / Forum Park,Poblenou,History
+27,1,5,0.016666666666666666,Sagrada Familia,Eixample,Religious
+27,2,15,0.10714285714285714,Parc Guell,Gracia,Nature
+27,3,16,0.01,La Rambla,Barri Gotic,History
+27,4,15,0.09375,Santa Maria del Mar,El Born,Religious
+27,5,0,0.0,Casa Batllo,Eixample,Art
+27,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+27,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+27,8,0,0.0,Hospital de Sant Pau,Eixample,History
+27,9,17,0.07083333333333333,Barcelona Cathedral,Barri Gotic,Religious
+27,10,12,0.1,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+27,11,27,0.54,Palau Guell,El Raval,Art
+27,12,56,0.4666666666666667,MACBA Museum,El Raval,Art
+27,13,53,0.53,CCCB Center,El Raval,Art
+27,14,31,0.775,Sant Pau del Camp,El Raval,Religious
+27,15,5,0.08333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+27,16,7,0.07777777777777778,Picasso Museum,El Born,Art
+27,17,8,0.1,Fundacio Joan Miro,Montjuic,Art
+27,18,19,0.0475,MNAC (Palau Nacional),Montjuic,Art
+27,19,24,0.048,Barcelona Zoo,Ciutadella,Nature
+27,20,74,0.074,Parc de la Ciutadella,Ciutadella,Nature
+27,21,9,0.03,Castell de Montjuic,Montjuic,History
+27,22,70,0.04375,Magic Fountain of Montjuic,Montjuic,History
+27,23,19,0.027142857142857142,Poble Espanyol,Montjuic,History
+27,24,63,0.005632442870936594,Estadi Olimpic Lluis Companys,Montjuic,History
+27,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+27,26,39,0.24375,Laberint d'Horta,Horta-Guinardo,Nature
+27,27,19,0.2375,Bunkers del Carmel,Horta-Guinardo,Nature
+27,28,65,0.2708333333333333,CosmoCaixa,Horta-Guinardo,Art
+27,29,18,0.15,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+27,30,8,0.16,Casa Vicens,Gracia,Art
+27,31,141,0.00709583912071985,Camp Nou Stadium,Les Corts,History
+27,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+27,33,223,0.446,Mercat de la Boqueria,El Raval,Food
+27,34,54,0.225,Mercat de Sant Antoni,Sant Antoni,Food
+27,35,10,0.05555555555555555,Mercat de Santa Caterina,El Born,Food
+27,36,38,0.2375,Mercat de la Concepcio,Sant Antoni,Food
+27,37,108,0.27,Mercat dels Encants,Poblenou,History
+27,38,63,0.039375,Barceloneta Beach,La Barceloneta,Nature
+27,39,5,0.005,Port Vell (Promenade),Barri Gotic,History
+27,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+27,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+27,42,16,0.08,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+27,43,4,0.04,El Born Cultural Center,El Born,History
+27,44,29,0.24166666666666667,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+27,45,19,0.11875,Parc de l'Espanya Industrial,Sants,Nature
+27,46,116,0.48333333333333334,Parc Central de Nou Barris,Nou Barris,Nature
+27,47,76,0.475,Parc del Turo de la Peira,Nou Barris,Nature
+27,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+27,49,154,0.25666666666666665,Parc Diagonal Mar,Poblenou,Nature
+27,50,180,0.225,Forum Building / Forum Park,Poblenou,History
+28,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+28,2,26,0.18571428571428572,Parc Guell,Gracia,Nature
+28,3,31,0.019375,La Rambla,Barri Gotic,History
+28,4,23,0.14375,Santa Maria del Mar,El Born,Religious
+28,5,1,0.0125,Casa Batllo,Eixample,Art
+28,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+28,7,6,0.013979496738117428,Palau de la Musica Catalana,El Born,Art
+28,8,0,0.0,Hospital de Sant Pau,Eixample,History
+28,9,32,0.13333333333333333,Barcelona Cathedral,Barri Gotic,Religious
+28,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+28,11,33,0.66,Palau Guell,El Raval,Art
+28,12,72,0.6,MACBA Museum,El Raval,Art
+28,13,66,0.66,CCCB Center,El Raval,Art
+28,14,31,0.775,Sant Pau del Camp,El Raval,Religious
+28,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+28,16,12,0.13333333333333333,Picasso Museum,El Born,Art
+28,17,15,0.1875,Fundacio Joan Miro,Montjuic,Art
+28,18,36,0.09,MNAC (Palau Nacional),Montjuic,Art
+28,19,46,0.092,Barcelona Zoo,Ciutadella,Nature
+28,20,109,0.109,Parc de la Ciutadella,Ciutadella,Nature
+28,21,13,0.043333333333333335,Castell de Montjuic,Montjuic,History
+28,22,126,0.07875,Magic Fountain of Montjuic,Montjuic,History
+28,23,30,0.04285714285714286,Poble Espanyol,Montjuic,History
+28,24,119,0.010639058756213567,Estadi Olimpic Lluis Companys,Montjuic,History
+28,25,10,0.14285714285714285,Montjuic Cable Car (Teleferic),Montjuic,Nature
+28,26,57,0.35625,Laberint d'Horta,Horta-Guinardo,Nature
+28,27,28,0.35,Bunkers del Carmel,Horta-Guinardo,Nature
+28,28,90,0.375,CosmoCaixa,Horta-Guinardo,Art
+28,29,34,0.2833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+28,30,14,0.28,Casa Vicens,Gracia,Art
+28,31,247,0.012430299736296476,Camp Nou Stadium,Les Corts,History
+28,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+28,33,288,0.576,Mercat de la Boqueria,El Raval,Food
+28,34,76,0.31666666666666665,Mercat de Sant Antoni,Sant Antoni,Food
+28,35,19,0.10555555555555556,Mercat de Santa Caterina,El Born,Food
+28,36,50,0.3125,Mercat de la Concepcio,Sant Antoni,Food
+28,37,133,0.3325,Mercat dels Encants,Poblenou,History
+28,38,113,0.070625,Barceloneta Beach,La Barceloneta,Nature
+28,39,9,0.009,Port Vell (Promenade),Barri Gotic,History
+28,40,11,0.04583333333333333,Aquarium Barcelona,Barri Gotic,Nature
+28,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+28,42,29,0.145,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+28,43,11,0.11,El Born Cultural Center,El Born,History
+28,44,44,0.36666666666666664,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+28,45,28,0.175,Parc de l'Espanya Industrial,Sants,Nature
+28,46,150,0.625,Parc Central de Nou Barris,Nou Barris,Nature
+28,47,100,0.625,Parc del Turo de la Peira,Nou Barris,Nature
+28,48,25,0.3125,Torre Glories Viewpoint,Poblenou,Art
+28,49,204,0.34,Parc Diagonal Mar,Poblenou,Nature
+28,50,244,0.305,Forum Building / Forum Park,Poblenou,History
+29,1,2,0.006666666666666667,Sagrada Familia,Eixample,Religious
+29,2,10,0.07142857142857142,Parc Guell,Gracia,Nature
+29,3,11,0.006875,La Rambla,Barri Gotic,History
+29,4,6,0.0375,Santa Maria del Mar,El Born,Religious
+29,5,0,0.0,Casa Batllo,Eixample,Art
+29,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+29,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+29,8,0,0.0,Hospital de Sant Pau,Eixample,History
+29,9,7,0.029166666666666667,Barcelona Cathedral,Barri Gotic,Religious
+29,10,6,0.05,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+29,11,16,0.32,Palau Guell,El Raval,Art
+29,12,25,0.20833333333333334,MACBA Museum,El Raval,Art
+29,13,29,0.29,CCCB Center,El Raval,Art
+29,14,20,0.5,Sant Pau del Camp,El Raval,Religious
+29,15,2,0.03333333333333333,Church of Sant Josep Oriol,Barri Gotic,Religious
+29,16,2,0.022222222222222223,Picasso Museum,El Born,Art
+29,17,1,0.0125,Fundacio Joan Miro,Montjuic,Art
+29,18,6,0.015,MNAC (Palau Nacional),Montjuic,Art
+29,19,12,0.024,Barcelona Zoo,Ciutadella,Nature
+29,20,28,0.028,Parc de la Ciutadella,Ciutadella,Nature
+29,21,4,0.013333333333333334,Castell de Montjuic,Montjuic,History
+29,22,28,0.0175,Magic Fountain of Montjuic,Montjuic,History
+29,23,6,0.008571428571428572,Poble Espanyol,Montjuic,History
+29,24,29,0.002592711797732718,Estadi Olimpic Lluis Companys,Montjuic,History
+29,25,3,0.04285714285714286,Montjuic Cable Car (Teleferic),Montjuic,Nature
+29,26,14,0.0875,Laberint d'Horta,Horta-Guinardo,Nature
+29,27,4,0.05,Bunkers del Carmel,Horta-Guinardo,Nature
+29,28,19,0.07916666666666666,CosmoCaixa,Horta-Guinardo,Art
+29,29,9,0.075,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+29,30,1,0.02,Casa Vicens,Gracia,Art
+29,31,74,0.0037240574108742476,Camp Nou Stadium,Les Corts,History
+29,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+29,33,83,0.166,Mercat de la Boqueria,El Raval,Food
+29,34,17,0.07083333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+29,35,6,0.03333333333333333,Mercat de Santa Caterina,El Born,Food
+29,36,9,0.05625,Mercat de la Concepcio,Sant Antoni,Food
+29,37,29,0.0725,Mercat dels Encants,Poblenou,History
+29,38,27,0.016875,Barceloneta Beach,La Barceloneta,Nature
+29,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+29,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+29,41,0,0.0,Maritime Museum,Barri Gotic,History
+29,42,7,0.035,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+29,43,3,0.03,El Born Cultural Center,El Born,History
+29,44,12,0.1,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+29,45,6,0.0375,Parc de l'Espanya Industrial,Sants,Nature
+29,46,32,0.13333333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+29,47,23,0.14375,Parc del Turo de la Peira,Nou Barris,Nature
+29,48,2,0.025,Torre Glories Viewpoint,Poblenou,Art
+29,49,42,0.07,Parc Diagonal Mar,Poblenou,Nature
+29,50,49,0.06125,Forum Building / Forum Park,Poblenou,History
+30,1,9,0.03,Sagrada Familia,Eixample,Religious
+30,2,23,0.16428571428571428,Parc Guell,Gracia,Nature
+30,3,29,0.018125,La Rambla,Barri Gotic,History
+30,4,21,0.13125,Santa Maria del Mar,El Born,Religious
+30,5,1,0.0125,Casa Batllo,Eixample,Art
+30,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+30,7,5,0.011649580615097856,Palau de la Musica Catalana,El Born,Art
+30,8,0,0.0,Hospital de Sant Pau,Eixample,History
+30,9,30,0.125,Barcelona Cathedral,Barri Gotic,Religious
+30,10,18,0.15,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+30,11,34,0.68,Palau Guell,El Raval,Art
+30,12,78,0.65,MACBA Museum,El Raval,Art
+30,13,69,0.69,CCCB Center,El Raval,Art
+30,14,35,0.875,Sant Pau del Camp,El Raval,Religious
+30,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+30,16,11,0.12222222222222222,Picasso Museum,El Born,Art
+30,17,15,0.1875,Fundacio Joan Miro,Montjuic,Art
+30,18,33,0.0825,MNAC (Palau Nacional),Montjuic,Art
+30,19,45,0.09,Barcelona Zoo,Ciutadella,Nature
+30,20,105,0.105,Parc de la Ciutadella,Ciutadella,Nature
+30,21,13,0.043333333333333335,Castell de Montjuic,Montjuic,History
+30,22,122,0.07625,Magic Fountain of Montjuic,Montjuic,History
+30,23,31,0.04428571428571428,Poble Espanyol,Montjuic,History
+30,24,94,0.008403962378857776,Estadi Olimpic Lluis Companys,Montjuic,History
+30,25,11,0.15714285714285714,Montjuic Cable Car (Teleferic),Montjuic,Nature
+30,26,60,0.375,Laberint d'Horta,Horta-Guinardo,Nature
+30,27,30,0.375,Bunkers del Carmel,Horta-Guinardo,Nature
+30,28,96,0.4,CosmoCaixa,Horta-Guinardo,Art
+30,29,33,0.275,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+30,30,13,0.26,Casa Vicens,Gracia,Art
+30,31,215,0.010819896531594098,Camp Nou Stadium,Les Corts,History
+30,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+30,33,300,0.6,Mercat de la Boqueria,El Raval,Food
+30,34,78,0.325,Mercat de Sant Antoni,Sant Antoni,Food
+30,35,19,0.10555555555555556,Mercat de Santa Caterina,El Born,Food
+30,36,51,0.31875,Mercat de la Concepcio,Sant Antoni,Food
+30,37,146,0.365,Mercat dels Encants,Poblenou,History
+30,38,106,0.06625,Barceloneta Beach,La Barceloneta,Nature
+30,39,8,0.008,Port Vell (Promenade),Barri Gotic,History
+30,40,7,0.029166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+30,41,3,0.025,Maritime Museum,Barri Gotic,History
+30,42,29,0.145,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+30,43,9,0.09,El Born Cultural Center,El Born,History
+30,44,46,0.38333333333333336,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+30,45,31,0.19375,Parc de l'Espanya Industrial,Sants,Nature
+30,46,161,0.6708333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+30,47,108,0.675,Parc del Turo de la Peira,Nou Barris,Nature
+30,48,27,0.3375,Torre Glories Viewpoint,Poblenou,Art
+30,49,216,0.36,Parc Diagonal Mar,Poblenou,Nature
+30,50,262,0.3275,Forum Building / Forum Park,Poblenou,History
+31,1,6,0.02,Sagrada Familia,Eixample,Religious
+31,2,13,0.09285714285714286,Parc Guell,Gracia,Nature
+31,3,13,0.008125,La Rambla,Barri Gotic,History
+31,4,13,0.08125,Santa Maria del Mar,El Born,Religious
+31,5,1,0.0125,Casa Batllo,Eixample,Art
+31,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+31,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+31,8,0,0.0,Hospital de Sant Pau,Eixample,History
+31,9,15,0.0625,Barcelona Cathedral,Barri Gotic,Religious
+31,10,10,0.08333333333333333,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+31,11,24,0.48,Palau Guell,El Raval,Art
+31,12,50,0.4166666666666667,MACBA Museum,El Raval,Art
+31,13,48,0.48,CCCB Center,El Raval,Art
+31,14,24,0.6,Sant Pau del Camp,El Raval,Religious
+31,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+31,16,6,0.06666666666666667,Picasso Museum,El Born,Art
+31,17,9,0.1125,Fundacio Joan Miro,Montjuic,Art
+31,18,16,0.04,MNAC (Palau Nacional),Montjuic,Art
+31,19,27,0.054,Barcelona Zoo,Ciutadella,Nature
+31,20,66,0.066,Parc de la Ciutadella,Ciutadella,Nature
+31,21,9,0.03,Castell de Montjuic,Montjuic,History
+31,22,73,0.045625,Magic Fountain of Montjuic,Montjuic,History
+31,23,19,0.027142857142857142,Poble Espanyol,Montjuic,History
+31,24,49,0.004380788899617351,Estadi Olimpic Lluis Companys,Montjuic,History
+31,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+31,26,35,0.21875,Laberint d'Horta,Horta-Guinardo,Nature
+31,27,18,0.225,Bunkers del Carmel,Horta-Guinardo,Nature
+31,28,56,0.23333333333333334,CosmoCaixa,Horta-Guinardo,Art
+31,29,19,0.15833333333333333,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+31,30,7,0.14,Casa Vicens,Gracia,Art
+31,31,148,0.007448114821748495,Camp Nou Stadium,Les Corts,History
+31,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+31,33,226,0.452,Mercat de la Boqueria,El Raval,Food
+31,34,57,0.2375,Mercat de Sant Antoni,Sant Antoni,Food
+31,35,13,0.07222222222222222,Mercat de Santa Caterina,El Born,Food
+31,36,35,0.21875,Mercat de la Concepcio,Sant Antoni,Food
+31,37,122,0.305,Mercat dels Encants,Poblenou,History
+31,38,63,0.039375,Barceloneta Beach,La Barceloneta,Nature
+31,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+31,40,2,0.008333333333333333,Aquarium Barcelona,Barri Gotic,Nature
+31,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+31,42,19,0.095,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+31,43,5,0.05,El Born Cultural Center,El Born,History
+31,44,27,0.225,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+31,45,21,0.13125,Parc de l'Espanya Industrial,Sants,Nature
+31,46,123,0.5125,Parc Central de Nou Barris,Nou Barris,Nature
+31,47,79,0.49375,Parc del Turo de la Peira,Nou Barris,Nature
+31,48,17,0.2125,Torre Glories Viewpoint,Poblenou,Art
+31,49,165,0.275,Parc Diagonal Mar,Poblenou,Nature
+31,50,190,0.2375,Forum Building / Forum Park,Poblenou,History
+32,1,2,0.006666666666666667,Sagrada Familia,Eixample,Religious
+32,2,19,0.1357142857142857,Parc Guell,Gracia,Nature
+32,3,11,0.006875,La Rambla,Barri Gotic,History
+32,4,11,0.06875,Santa Maria del Mar,El Born,Religious
+32,5,0,0.0,Casa Batllo,Eixample,Art
+32,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+32,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+32,8,0,0.0,Hospital de Sant Pau,Eixample,History
+32,9,15,0.0625,Barcelona Cathedral,Barri Gotic,Religious
+32,10,8,0.06666666666666667,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+32,11,25,0.5,Palau Guell,El Raval,Art
+32,12,56,0.4666666666666667,MACBA Museum,El Raval,Art
+32,13,50,0.5,CCCB Center,El Raval,Art
+32,14,27,0.675,Sant Pau del Camp,El Raval,Religious
+32,15,4,0.06666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+32,16,6,0.06666666666666667,Picasso Museum,El Born,Art
+32,17,6,0.075,Fundacio Joan Miro,Montjuic,Art
+32,18,11,0.0275,MNAC (Palau Nacional),Montjuic,Art
+32,19,23,0.046,Barcelona Zoo,Ciutadella,Nature
+32,20,66,0.066,Parc de la Ciutadella,Ciutadella,Nature
+32,21,7,0.023333333333333334,Castell de Montjuic,Montjuic,History
+32,22,71,0.044375,Magic Fountain of Montjuic,Montjuic,History
+32,23,16,0.022857142857142857,Poble Espanyol,Montjuic,History
+32,24,53,0.0047384043199942775,Estadi Olimpic Lluis Companys,Montjuic,History
+32,25,6,0.08571428571428572,Montjuic Cable Car (Teleferic),Montjuic,Nature
+32,26,39,0.24375,Laberint d'Horta,Horta-Guinardo,Nature
+32,27,18,0.225,Bunkers del Carmel,Horta-Guinardo,Nature
+32,28,61,0.25416666666666665,CosmoCaixa,Horta-Guinardo,Art
+32,29,22,0.18333333333333332,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+32,30,8,0.16,Casa Vicens,Gracia,Art
+32,31,122,0.0061396622179278135,Camp Nou Stadium,Les Corts,History
+32,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+32,33,208,0.416,Mercat de la Boqueria,El Raval,Food
+32,34,49,0.20416666666666666,Mercat de Sant Antoni,Sant Antoni,Food
+32,35,10,0.05555555555555555,Mercat de Santa Caterina,El Born,Food
+32,36,34,0.2125,Mercat de la Concepcio,Sant Antoni,Food
+32,37,91,0.2275,Mercat dels Encants,Poblenou,History
+32,38,57,0.035625,Barceloneta Beach,La Barceloneta,Nature
+32,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+32,40,4,0.016666666666666666,Aquarium Barcelona,Barri Gotic,Nature
+32,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+32,42,13,0.065,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+32,43,4,0.04,El Born Cultural Center,El Born,History
+32,44,30,0.25,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+32,45,15,0.09375,Parc de l'Espanya Industrial,Sants,Nature
+32,46,116,0.48333333333333334,Parc Central de Nou Barris,Nou Barris,Nature
+32,47,77,0.48125,Parc del Turo de la Peira,Nou Barris,Nature
+32,48,18,0.225,Torre Glories Viewpoint,Poblenou,Art
+32,49,138,0.23,Parc Diagonal Mar,Poblenou,Nature
+32,50,161,0.20125,Forum Building / Forum Park,Poblenou,History
+33,1,8,0.02666666666666667,Sagrada Familia,Eixample,Religious
+33,2,18,0.12857142857142856,Parc Guell,Gracia,Nature
+33,3,18,0.01125,La Rambla,Barri Gotic,History
+33,4,20,0.125,Santa Maria del Mar,El Born,Religious
+33,5,1,0.0125,Casa Batllo,Eixample,Art
+33,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+33,7,1,0.0023299161230195715,Palau de la Musica Catalana,El Born,Art
+33,8,0,0.0,Hospital de Sant Pau,Eixample,History
+33,9,23,0.09583333333333334,Barcelona Cathedral,Barri Gotic,Religious
+33,10,15,0.125,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+33,11,32,0.64,Palau Guell,El Raval,Art
+33,12,68,0.5666666666666667,MACBA Museum,El Raval,Art
+33,13,62,0.62,CCCB Center,El Raval,Art
+33,14,34,0.85,Sant Pau del Camp,El Raval,Religious
+33,15,7,0.11666666666666667,Church of Sant Josep Oriol,Barri Gotic,Religious
+33,16,8,0.08888888888888889,Picasso Museum,El Born,Art
+33,17,12,0.15,Fundacio Joan Miro,Montjuic,Art
+33,18,26,0.065,MNAC (Palau Nacional),Montjuic,Art
+33,19,36,0.072,Barcelona Zoo,Ciutadella,Nature
+33,20,95,0.095,Parc de la Ciutadella,Ciutadella,Nature
+33,21,11,0.03666666666666667,Castell de Montjuic,Montjuic,History
+33,22,94,0.05875,Magic Fountain of Montjuic,Montjuic,History
+33,23,26,0.037142857142857144,Poble Espanyol,Montjuic,History
+33,24,64,0.005721846726030826,Estadi Olimpic Lluis Companys,Montjuic,History
+33,25,8,0.11428571428571428,Montjuic Cable Car (Teleferic),Montjuic,Nature
+33,26,51,0.31875,Laberint d'Horta,Horta-Guinardo,Nature
+33,27,25,0.3125,Bunkers del Carmel,Horta-Guinardo,Nature
+33,28,78,0.325,CosmoCaixa,Horta-Guinardo,Art
+33,29,26,0.21666666666666667,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+33,30,11,0.22,Casa Vicens,Gracia,Art
+33,31,189,0.009511443927773417,Camp Nou Stadium,Les Corts,History
+33,32,1,0.00625,FC Barcelona Museum,Les Corts,History
+33,33,274,0.548,Mercat de la Boqueria,El Raval,Food
+33,34,65,0.2708333333333333,Mercat de Sant Antoni,Sant Antoni,Food
+33,35,11,0.06111111111111111,Mercat de Santa Caterina,El Born,Food
+33,36,45,0.28125,Mercat de la Concepcio,Sant Antoni,Food
+33,37,133,0.3325,Mercat dels Encants,Poblenou,History
+33,38,84,0.0525,Barceloneta Beach,La Barceloneta,Nature
+33,39,6,0.006,Port Vell (Promenade),Barri Gotic,History
+33,40,4,0.016666666666666666,Aquarium Barcelona,Barri Gotic,Nature
+33,41,2,0.016666666666666666,Maritime Museum,Barri Gotic,History
+33,42,24,0.12,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+33,43,7,0.07,El Born Cultural Center,El Born,History
+33,44,38,0.31666666666666665,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+33,45,25,0.15625,Parc de l'Espanya Industrial,Sants,Nature
+33,46,139,0.5791666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+33,47,93,0.58125,Parc del Turo de la Peira,Nou Barris,Nature
+33,48,21,0.2625,Torre Glories Viewpoint,Poblenou,Art
+33,49,190,0.31666666666666665,Parc Diagonal Mar,Poblenou,Nature
+33,50,228,0.285,Forum Building / Forum Park,Poblenou,History
+34,1,10,0.03333333333333333,Sagrada Familia,Eixample,Religious
+34,2,21,0.15,Parc Guell,Gracia,Nature
+34,3,23,0.014375,La Rambla,Barri Gotic,History
+34,4,23,0.14375,Santa Maria del Mar,El Born,Religious
+34,5,1,0.0125,Casa Batllo,Eixample,Art
+34,6,1,0.01,Casa Mila (La Pedrera),Eixample,Art
+34,7,7,0.016309412861137,Palau de la Musica Catalana,El Born,Art
+34,8,0,0.0,Hospital de Sant Pau,Eixample,History
+34,9,31,0.12916666666666668,Barcelona Cathedral,Barri Gotic,Religious
+34,10,17,0.14166666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+34,11,30,0.6,Palau Guell,El Raval,Art
+34,12,66,0.55,MACBA Museum,El Raval,Art
+34,13,61,0.61,CCCB Center,El Raval,Art
+34,14,28,0.7,Sant Pau del Camp,El Raval,Religious
+34,15,9,0.15,Church of Sant Josep Oriol,Barri Gotic,Religious
+34,16,11,0.12222222222222222,Picasso Museum,El Born,Art
+34,17,14,0.175,Fundacio Joan Miro,Montjuic,Art
+34,18,33,0.0825,MNAC (Palau Nacional),Montjuic,Art
+34,19,36,0.072,Barcelona Zoo,Ciutadella,Nature
+34,20,87,0.087,Parc de la Ciutadella,Ciutadella,Nature
+34,21,12,0.04,Castell de Montjuic,Montjuic,History
+34,22,94,0.05875,Magic Fountain of Montjuic,Montjuic,History
+34,23,26,0.037142857142857144,Poble Espanyol,Montjuic,History
+34,24,89,0.007956943103386618,Estadi Olimpic Lluis Companys,Montjuic,History
+34,25,7,0.1,Montjuic Cable Car (Teleferic),Montjuic,Nature
+34,26,45,0.28125,Laberint d'Horta,Horta-Guinardo,Nature
+34,27,22,0.275,Bunkers del Carmel,Horta-Guinardo,Nature
+34,28,87,0.3625,CosmoCaixa,Horta-Guinardo,Art
+34,29,31,0.25833333333333336,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+34,30,13,0.26,Casa Vicens,Gracia,Art
+34,31,223,0.011222497332769693,Camp Nou Stadium,Les Corts,History
+34,32,3,0.01875,FC Barcelona Museum,Les Corts,History
+34,33,257,0.514,Mercat de la Boqueria,El Raval,Food
+34,34,52,0.21666666666666667,Mercat de Sant Antoni,Sant Antoni,Food
+34,35,10,0.05555555555555555,Mercat de Santa Caterina,El Born,Food
+34,36,39,0.24375,Mercat de la Concepcio,Sant Antoni,Food
+34,37,112,0.28,Mercat dels Encants,Poblenou,History
+34,38,88,0.055,Barceloneta Beach,La Barceloneta,Nature
+34,39,8,0.008,Port Vell (Promenade),Barri Gotic,History
+34,40,9,0.0375,Aquarium Barcelona,Barri Gotic,Nature
+34,41,4,0.03333333333333333,Maritime Museum,Barri Gotic,History
+34,42,28,0.14,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+34,43,11,0.11,El Born Cultural Center,El Born,History
+34,44,34,0.2833333333333333,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+34,45,21,0.13125,Parc de l'Espanya Industrial,Sants,Nature
+34,46,122,0.5083333333333333,Parc Central de Nou Barris,Nou Barris,Nature
+34,47,82,0.5125,Parc del Turo de la Peira,Nou Barris,Nature
+34,48,25,0.3125,Torre Glories Viewpoint,Poblenou,Art
+34,49,168,0.28,Parc Diagonal Mar,Poblenou,Nature
+34,50,194,0.2425,Forum Building / Forum Park,Poblenou,History
+35,1,1,0.0033333333333333335,Sagrada Familia,Eixample,Religious
+35,2,10,0.07142857142857142,Parc Guell,Gracia,Nature
+35,3,4,0.0025,La Rambla,Barri Gotic,History
+35,4,1,0.00625,Santa Maria del Mar,El Born,Religious
+35,5,0,0.0,Casa Batllo,Eixample,Art
+35,6,0,0.0,Casa Mila (La Pedrera),Eixample,Art
+35,7,0,0.0,Palau de la Musica Catalana,El Born,Art
+35,8,0,0.0,Hospital de Sant Pau,Eixample,History
+35,9,1,0.004166666666666667,Barcelona Cathedral,Barri Gotic,Religious
+35,10,2,0.016666666666666666,Basilica de Santa Maria del Pi,Barri Gotic,Religious
+35,11,11,0.22,Palau Guell,El Raval,Art
+35,12,15,0.125,MACBA Museum,El Raval,Art
+35,13,20,0.2,CCCB Center,El Raval,Art
+35,14,18,0.45,Sant Pau del Camp,El Raval,Religious
+35,15,0,0.0,Church of Sant Josep Oriol,Barri Gotic,Religious
+35,16,0,0.0,Picasso Museum,El Born,Art
+35,17,0,0.0,Fundacio Joan Miro,Montjuic,Art
+35,18,0,0.0,MNAC (Palau Nacional),Montjuic,Art
+35,19,6,0.012,Barcelona Zoo,Ciutadella,Nature
+35,20,20,0.02,Parc de la Ciutadella,Ciutadella,Nature
+35,21,2,0.006666666666666667,Castell de Montjuic,Montjuic,History
+35,22,8,0.005,Magic Fountain of Montjuic,Montjuic,History
+35,23,5,0.007142857142857143,Poble Espanyol,Montjuic,History
+35,24,17,0.0015198655366019382,Estadi Olimpic Lluis Companys,Montjuic,History
+35,25,0,0.0,Montjuic Cable Car (Teleferic),Montjuic,Nature
+35,26,12,0.075,Laberint d'Horta,Horta-Guinardo,Nature
+35,27,7,0.0875,Bunkers del Carmel,Horta-Guinardo,Nature
+35,28,6,0.025,CosmoCaixa,Horta-Guinardo,Art
+35,29,5,0.041666666666666664,Tibidabo Temple (Sagrat Cor),Horta-Guinardo,Religious
+35,30,0,0.0,Casa Vicens,Gracia,Art
+35,31,44,0.002214304406465769,Camp Nou Stadium,Les Corts,History
+35,32,2,0.0125,FC Barcelona Museum,Les Corts,History
+35,33,91,0.182,Mercat de la Boqueria,El Raval,Food
+35,34,27,0.1125,Mercat de Sant Antoni,Sant Antoni,Food
+35,35,1,0.005555555555555556,Mercat de Santa Caterina,El Born,Food
+35,36,13,0.08125,Mercat de la Concepcio,Sant Antoni,Food
+35,37,52,0.13,Mercat dels Encants,Poblenou,History
+35,38,13,0.008125,Barceloneta Beach,La Barceloneta,Nature
+35,39,2,0.002,Port Vell (Promenade),Barri Gotic,History
+35,40,1,0.004166666666666667,Aquarium Barcelona,Barri Gotic,Nature
+35,41,0,0.0,Maritime Museum,Barri Gotic,History
+35,42,1,0.005,Basilica de la Mare de Deu de la Merce,Barri Gotic,Religious
+35,43,1,0.01,El Born Cultural Center,El Born,History
+35,44,12,0.1,Parc de la Creueta del Coll,Horta-Guinardo,Nature
+35,45,2,0.0125,Parc de l'Espanya Industrial,Sants,Nature
+35,46,67,0.2791666666666667,Parc Central de Nou Barris,Nou Barris,Nature
+35,47,43,0.26875,Parc del Turo de la Peira,Nou Barris,Nature
+35,48,1,0.0125,Torre Glories Viewpoint,Poblenou,Art
+35,49,70,0.11666666666666667,Parc Diagonal Mar,Poblenou,Nature
+35,50,70,0.0875,Forum Building / Forum Park,Poblenou,History
